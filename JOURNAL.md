@@ -7,9 +7,10 @@
   * First look on what's out there
   * Check links and documents from Mr. Hassenstein
   * Rough planning
-  * Decision on using English or German and Word or LateX.
+  * Decision on using English or German and Word or LaTeX.
   * Possibly define "who does what"
   * Create Git-repo or the like
 ## 22.02.2020/23.02.2020
 * GitHub Repo: https://github.com/Pidu2/project2-dkm
 * Having a first look into the documents delivered by Mr. Hassenstein
+* Reading about LaTeX vs Word. Decision: We'll stick with Word for Project 2 as we both have no experience using LaTeX.
