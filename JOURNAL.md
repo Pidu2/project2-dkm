@@ -8,4 +8,5 @@
   * Check links and documents from Mr. Hassenstein
   * Rough planning
   * Decision on using English or Germand and Word or LateX.
+  * Possibly define "who does what"
   * Create Git-repo or the like
