@@ -1,4 +1,5 @@
-# 20.02.2020
+# Journal
+## 20.02.2020
 * First Meeting with Mrs. Annett Laube and Mr. Gerhard Hassenstein
 * Definition of the very first phase
 * Received Links from Mr. Hassenstein
