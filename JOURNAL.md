@@ -1,7 +1,7 @@
 # Journal
 ## 20.02.2020
 * First Meeting with Mrs. Annett Laube and Mr. Gerhard Hassenstein
-* Definition of the very first phase
+* Input by the professors on what is to be reached within the project, what is to be delivered, where we should start etc.
 * Received Links from Mr. Hassenstein
 * ToDo until next Meeting:
   * First look on what's out there
