@@ -8,19 +8,6 @@ Toughts Book:
 - Still, parts of it should probably be read to have a good idea of SSI in general and how a DKM needs to be built to support it
 
 
-Linksammlung:
-DKMS with Blockchaint/DLT (short): https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/topics-and-advance-readings/dkms-decentralized-key-mgmt-system.md
-Same Approach (long): https://github.com/hyperledger/indy-sdk/blob/677a0439487a1b7ce64c2e62671ed3e0079cc11f/doc/design/005-dkms/DKMS%20Design%20and%20Architecture%20V3.md
-https://www.youtube.com/watch?v=NJxaYsAo6pI
-https://www.youtube.com/watch?v=CxZqqfx24lc
-https://www.youtube.com/watch?v=LOrXOxc2yp0
-https://hackernoon.com/solutions-for-private-key-management-in-decentralized-apps-24f95634be16
-bitcoin: https://medium.com/iov-internet-of-values/private-key-recovery-decentralize-users-responsibility-88fa60ee905
-https://docs.google.com/presentation/d/11xVs6dZJs6s66EWqdvoVexZKV-7f0Ov8SDOQ0Mgw0TY/htmlpresent (slides)
-https://adorsys-platform.de/solutions/social-key-recovery/
-longplay.me seems to do the same
-stealing phone: https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf
-more SSI: https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> links also to hyperledger/indy solution
-Hassenstein:
-Ein Distributed Key Management System (DKMS) auf Basis DHT ist Anastatis: https://clicktime.symantec.com/32RTN8TB2sCFaBNEN7YH7A57Vc?u=https%3A%2F%2Fdocs.taler.net%2Fanastasis.html%23 
-Ein SSI, welches auf GNS basiert ist re:claimID: https://clicktime.symantec.com/3LYs3kcVYQYjCkFtGnoVinZ7Vc?u=https%3A%2F%2Freclaim-identity.io%2F. Das paper dazu findest du unter: https://clicktime.symantec.com/3BP2auuzi9UDfKDVGgfMLWQ7Vc?u=https%3A%2F%2Farxiv.org%2Fpdf%2F1805.06253.pdf 
+Wording:
+DID (decentralized identifier)
+DDO (DID descriptor object)
