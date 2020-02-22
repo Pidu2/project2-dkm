@@ -7,7 +7,7 @@
   * First look on what's out there
   * Check links and documents from Mr. Hassenstein
   * Rough planning
-  * Decision on using English or Germand and Word or LateX.
+  * Decision on using English or German and Word or LateX.
   * Possibly define "who does what"
   * Create Git-repo or the like
 ## 22.02.2020/23.02.2020
