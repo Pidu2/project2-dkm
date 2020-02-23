@@ -13,4 +13,7 @@
 ## 22.02.2020/23.02.2020
 * GitHub Repo: https://github.com/Pidu2/project2-dkm
 * Having a first look into the documents delivered by Mr. Hassenstein
-* Reading about LaTeX vs Word. Decision: We'll stick with Word for Project 2 as we both have no experience using LaTeX.
+* Created a link collection
+* Reading about LaTeX vs Word 
+* Decisions: 
+We'll stick with Word for Project 2 as we both have no experience using LaTeX.

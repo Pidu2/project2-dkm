@@ -6,7 +6,10 @@ Thoughts BaTh:
 Toughts Book:
 - The book does not yet have the chapters that would be most interesting for us (DKM: Introduction, Key regeneration, Key rotation, Key recovery)
 - Still, parts of it should probably be read to have a good idea of SSI in general and how a DKM needs to be built to support it
+Thoughts Evernym and Sovrin:
+- Funded with the money from U.S. Department of Homeland Security
 
+- Where are the exact differentiation between SSI and DKMS, are there any?
 
 Wording:
 DID (decentralized identifier)
