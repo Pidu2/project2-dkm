@@ -16,6 +16,7 @@ bitcoin: https://medium.com/iov-internet-of-values/private-key-recovery-decentra
 https://docs.google.com/presentation/d/11xVs6dZJs6s66EWqdvoVexZKV-7f0Ov8SDOQ0Mgw0TY/htmlpresent (slides)
 https://adorsys-platform.de/solutions/social-key-recovery/
 more SSI: https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> links also to hyperledger/indy solution
+SSI: http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
 
 re:ClainID:
 re:claimID explained: https://media.ccc.de/v/ds19-10383-re_claimid
