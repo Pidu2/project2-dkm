@@ -8,6 +8,7 @@ DKMS: https://www.youtube.com/watch?v=CxZqqfx24lc (20m)
 -> https://github.com/nucypher/nucypher
 https://hackernoon.com/solutions-for-private-key-management-in-decentralized-apps-24f95634be16
 SSI Intro: https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> links also to hyperledger/indy solution
+more SSI: https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity
 
 Hyperledger Indy (open-source Sovrin):
 https://www.hyperledger.org/projects/hyperledger-indy
