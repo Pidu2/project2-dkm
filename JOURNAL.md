@@ -17,3 +17,9 @@
 * Reading about LaTeX vs Word 
 * Decisions: 
 We'll stick with Word for Project 2 as we both have no experience using LaTeX.
+## 25.02.2020
+* Meeting @ BFH
+ * Decision: Language -> German
+ * Wrote down some questions to look at in the next meeting with professors.
+ * Checked Links and categorized them
+ * Initial Overview
