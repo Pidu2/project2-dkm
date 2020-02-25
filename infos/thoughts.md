@@ -8,8 +8,21 @@ Toughts Book:
 - Still, parts of it should probably be read to have a good idea of SSI in general and how a DKM needs to be built to support it
 Thoughts Evernym and Sovrin:
 - Funded with the money from U.S. Department of Homeland Security
+Thoughts key recovery:
+- Shamir secret sharing scheme -> Hyperledger Indy
+- Threshold signature scheme -> Binance
 
 - Where are the exact differentiation between SSI and DKMS, are there any?
+- Decentralized vs. distributed
+- DLT for key recovery?
+- NuCypher example, what's this?
+
+Document layout:
+- Introduction
+- Explain SSI
+- Different Technologies
+- Key Recovery
+- Summary
 
 Wording:
 DID (decentralized identifier)
