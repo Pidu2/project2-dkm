@@ -8,3 +8,5 @@ until KW18
 Bachelor thesis
 until KW?
 Described 2-3 tools for DKMS (based on DLT or Math)
+
+KW24: Presentation / End of Project
