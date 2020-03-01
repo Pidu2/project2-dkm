@@ -15,7 +15,8 @@
 - https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity
 - https://identitywoman.net
 - http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
-- DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI
+- DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI / https://www.youtube.com/watch?v=gf2g4O3yqCc / https://www.youtube.com/watch?v=SHuRRaOBMz4
+- Verifiable Credentials (video by drummond reed): https://www.youtube.com/watch?v=6O_iJnhIh5o
 
 ## Hyperledger Indy (open-source Sovrin):
 ### Documentation
@@ -59,4 +60,4 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 - https://github.com/nucypher/nucypher
 
 ## Stuff to research
-- (general) key sharding / SSSS etc
+- (general) key sharding / SSSS etc (SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ)
