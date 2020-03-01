@@ -23,3 +23,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Wrote down some questions to look at in the next meeting with professors.
  * Checked Links and categorized them
  * Initial Overview
+## 29.02.2020/30.02.2020
+* Informing ourselves (book, links, videos..)

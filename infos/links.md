@@ -15,6 +15,7 @@
 - https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity
 - https://identitywoman.net
 - http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
+- DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI
 
 ## Hyperledger Indy (open-source Sovrin):
 ### Documentation
@@ -27,14 +28,14 @@
 ### Hyperledger Indy Agents
 - https://www.youtube.com/watch?v=llwfb5Ut5sg (2h)
 
-## Sovrin
+## Sovrin (permissioned blockchain)
 ### Overview
 - https://sovrin.org/library/
 - Evernym (SSI Company behind Sovrin): https://www.evernym.com/
 - stealing phone: https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf
 
 ## re:ClaimID
-- re:ClaimID based on GNS:
+- re:ClaimID based on GNS. Login just like OpenID Connect (transparent for user):
 - https://media.ccc.de/v/ds19-10383-re_claimid
 - https://arxiv.org/pdf/1805.06253.pdf
 
@@ -57,3 +58,5 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 - https://www.youtube.com/watch?v=CxZqqfx24lc (20m)
 - https://github.com/nucypher/nucypher
 
+## Stuff to research
+- (general) key sharding / SSSS etc
