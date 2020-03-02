@@ -35,11 +35,15 @@
 - https://sovrin.org/library/
 - Evernym (SSI Company behind Sovrin): https://www.evernym.com/
 - stealing phone: https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf
+- https://www.windley.com/archives/2017/09/is_sovrin_decentralized.shtml
 
 ## re:ClaimID
 - re:ClaimID based on GNS. Login just like OpenID Connect (transparent for user):
 - https://media.ccc.de/v/ds19-10383-re_claimid
 - https://arxiv.org/pdf/1805.06253.pdf
+
+## Swisscom Blockchain
+- https://www.blockchain.swisscom.com/event-details/
 
 ## Other Solutions
 ### longplay.me

@@ -25,3 +25,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Initial Overview
 ## 29.02.2020/30.02.2020
 * Informing ourselves (book, links, videos..)
+* Read part of SSI book
+## 02.03.2020
+* Updated planning

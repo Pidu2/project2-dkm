@@ -13,6 +13,7 @@ Thoughts key recovery:
 - SSI / DKMS -> SSI how deep? Key recovery only SSI? 
 - Decentralized vs. distributed (naming)
 - NuCypher example (called DKMS), what's this?
+- Swisscom connections?
 
 Document layout:
 - Introduction
