@@ -17,6 +17,7 @@
 - http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
 - DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI / https://www.youtube.com/watch?v=gf2g4O3yqCc / https://www.youtube.com/watch?v=SHuRRaOBMz4
 - Verifiable Credentials (video by drummond reed): https://www.youtube.com/watch?v=6O_iJnhIh5o
+- Aries (Agents part) (video by drummond reed): https://www.youtube.com/watch?v=PXPZQB3VG9w
 
 ## Hyperledger Indy (open-source Sovrin):
 ### Documentation
