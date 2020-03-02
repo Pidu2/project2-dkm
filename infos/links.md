@@ -46,6 +46,8 @@
 - https://www.blockchain.swisscom.com/event-details/
 
 ## Other Solutions
+### Some Solutions for social recovery at the "Rebooting the Web of Trust #8" conference held in Barcelona
+- https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0051-dkms/dkms-v4.md (see part "Social Recovery")
 ### longplay.me
 - longplay.me
 ### Social key recovery
