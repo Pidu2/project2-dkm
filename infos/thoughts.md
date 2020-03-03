@@ -8,6 +8,7 @@ Toughts Book:
 
 Thoughts Evernym and Sovrin:
 - Funded with the money from U.S. Department of Homeland Security
+
 Thoughts key recovery:
 - Shamir secret sharing scheme -> Hyperledger Indy
 - Threshold signature scheme -> Binance
