@@ -23,5 +23,5 @@ Document layout:
 - Summary
 
 Wording:
-DID (decentralized identifier)
-DDO (DID descriptor object, documents (infos) referenced by DID)
+- DID (decentralized identifier)
+- DDO (DID descriptor object, documents (infos) referenced by DID)
