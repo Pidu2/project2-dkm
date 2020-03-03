@@ -16,9 +16,9 @@ Key recovery:
 Open:
 - DKMS all of it or only key recovery (etc.)?
 - SSI / DKMS -> SSI how deep? Key recovery only SSI? 
-- Decentralized vs. distributed (naming)
-- NuCypher example (called DKMS), what's this?
-- Swisscom connections?
+- Decentralized vs. distributed (naming) -> to check
+- NuCypher example (called DKMS), what's this? 
+- Swisscom connections? -> Mrs Laube will check for connections
 
 Document layout:
 - Introduction

@@ -28,3 +28,17 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Read part of SSI book
 ## 02.03.2020
 * Updated planning
+## 03.03.2020
+* Checked repo
+* Looked at links
+* Free which solutions for the DKMS problem to describe
+* ToDo
+ * What's necessary to install a HyperLedger Indy blockchain?
+ * HyperLedger Aries vs. Indy?
+ * Which system could be installed?
+ * Criteria catalog for the DKMS problem -> will be used for comparing the solutions
+ * Distributed vs. Decentralized
+ * Update plan with criteria catalog
+ * Have a look at streetcred.id, keepin, globaliD and other apps
+ * Get documents about Anastasis from Mr Grothoff
+ * Order virtual machines for HyperLedger Indy

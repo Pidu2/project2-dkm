@@ -1,13 +1,14 @@
-until KW14
-Introduction SSI and DKMS
-Book and Links (Intro)
--> outcome: Intro
-until KW18
-Overview of different tools and possiblities
-if possible: Meeting with Swisscom -> Hyperledger Indy
-until KW20
-Described 2-3 tools for DKMS (based on DLT or Math)
-SSSS vs. TSS vs. Social Recovery
-until KW24 
-Review - Documentation
-KW24: Presentation / End of Project
+# until KW14
+* Introduction SSI and DKMS
+* Book and Links (Intro)
+* Criteria catalog
+# until KW18
+* Overview of different tools and possiblities
+* if possible: Meeting with Swisscom -> Hyperledger Indy
+# until KW20
+* Described 2-3 tools for DKMS (based on DLT or Math)
+* SSSS vs. TSS vs. Social Recovery
+* Compare the tools based on the criteria catalog
+# until KW24 
+* Review - Documentation
+# KW24: Presentation / End of Project
