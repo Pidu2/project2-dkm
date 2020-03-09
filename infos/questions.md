@@ -1,8 +1,8 @@
-| Date issued  | Topic | Question | State | Date resolved | Solution | To check on next meeting |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Date issued  | Topic | Question | State | Date resolved | Solution | Next meeting |
+| ------------- | ------------- | --------------------- | ------- | ------------- | ---------------------- | ------------- |
 | | General | DKMS all of it or only key recovery (etc.)?  | Open | | | |
 | | General | SSI / DKMS -> SSI how deep? Key recovery only SSI? | Open | | | |
-| | General | Swisscom connections? | Open | Mrs Laube will check for connections | | x |
+| | General | Swisscom connections? | Open | | Mrs Laube will check for connections | x |
 | 03.03.2020 | General | Decentralized vs. distributed (naming) | Open | | | |
 | 03.03.2020 | Apps | Usable Apps?: Have a look at streetcred.id, keepin, globaliD and other apps | Open | | | |
 | 03.03.2020 | HyperLedger | HyperLedger Aries vs. Indy? | Open | | |
