@@ -1,5 +1,5 @@
 | Date issued  | Topic | Question | State | Date resolved | Solution | Next meeting |
-| ------------- | ------------- | --------------------- | ------- | ------------- | ---------------------- | ------------- |
+| .-----------. | ------------- | --------------------- | ------- | .-----------. | ---------------------- | .-----------. |
 | | General | DKMS all of it or only key recovery (etc.)?  | Open | | | |
 | | General | SSI / DKMS -> SSI how deep? Key recovery only SSI? | Open | | | |
 | | General | Swisscom connections? | Open | | Mrs Laube will check for connections | x |
