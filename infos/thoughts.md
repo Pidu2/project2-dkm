@@ -13,6 +13,11 @@ Key recovery:
 - Shamir secret sharing scheme -> Hyperledger Indy
 - Threshold signature scheme -> Binance
 
+NuCypher and pyUmbral:
+- pyUmbral is the cryptographic engine behind nucypher, a proxy re-encryption network to empower privacy in decentralized systems.
+- pyUmbral distributes N parts of key on a DLT, whereas M parts are required to re-encrypt the data for another user
+- Not usable for our projet as there are just multiple Ursulas (nodes) involved and not multiple social parts
+
 Open:
 - DKMS all of it or only key recovery (etc.)?
 - SSI / DKMS -> SSI how deep? Key recovery only SSI? 

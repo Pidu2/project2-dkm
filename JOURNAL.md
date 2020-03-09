@@ -45,4 +45,9 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 06.03.2020
 * Talked to students currently doing their BaTh about Anastasis -> Currently only the spec exists and therefore the system is not practically useable
 * Ordered VMs
-* Distributed / Decentralized: a lot of different opinions. good article on decentralization: https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+## 07.03.2020
+* Video about Indy agents
+## 09.03.2020
+* Checked infos on nucypher
+** Read "UMBRAL: A THRESHOLD PROXY RE-ENCRYPTION SCHEME"
+* Started criteria catalog
