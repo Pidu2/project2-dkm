@@ -42,3 +42,7 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Have a look at streetcred.id, keepin, globaliD and other apps
  * Get documents about Anastasis from Mr Grothoff
  * Order virtual machines for HyperLedger Indy
+## 06.03.2020
+* Talked to students currently doing their BaTh about Anastasis -> Currently only the spec exists and therefore the system is not practically useable
+* Ordered VMs
+* Distributed / Decentralized: "Centralization and decentralization refer to levels of control. Distribution refers to differences of location."
