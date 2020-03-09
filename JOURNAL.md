@@ -49,5 +49,7 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Video about Indy agents
 ## 09.03.2020
 * Checked infos on nucypher
-** Read "UMBRAL: A THRESHOLD PROXY RE-ENCRYPTION SCHEME"
+ * Read "UMBRAL: A THRESHOLD PROXY RE-ENCRYPTION SCHEME"
 * Started criteria catalog
+* Tested teams for communication
+* Updated plan and questions

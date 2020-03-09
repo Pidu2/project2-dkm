@@ -1,4 +1,9 @@
 # Linksammlung
+
+## General
+- Dezentralized vs. distributed
+- https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+
 ## DKMS and SSI
 ### DKMS Intro 
 - https://www.youtube.com/watch?v=LOrXOxc2yp0 (7m)
@@ -60,6 +65,7 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 ### Anastasis
 - Ein Distributed Key Management System (DKMS) auf Basis DHT ist Anastatis
 - https://docs.taler.net/anastasis.html
+
 
 ## Other Infos
 ### NuCyhper - Decentralized re-encryption

@@ -18,17 +18,14 @@ NuCypher and pyUmbral:
 - pyUmbral distributes N parts of key on a DLT, whereas M parts are required to re-encrypt the data for another user
 - Not usable for our projet as there are just multiple Ursulas (nodes) involved and not multiple social parts
 
-Open:
-- DKMS all of it or only key recovery (etc.)?
-- SSI / DKMS -> SSI how deep? Key recovery only SSI? 
-- Decentralized vs. distributed (naming) -> to check
-- NuCypher example (called DKMS), what's this? 
-- Swisscom connections? -> Mrs Laube will check for connections
-
 Document layout:
+- Management Summary
 - Introduction
-- Explain SSI 
-- Different Technologies (basic technologies for key recovery)
+- Explain SSI and/or use case
+- Overview of possible technologies (links)
+- Key recovery technologies (basic technologies for key recovery e.g. crypto TSS/SSSS)
+- Criteria catalog explanation
+- Criteria catalog with 3 possible solutions
 - Key Recovery (actual usage of one of these technologies)
 - Summary
 
