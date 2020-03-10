@@ -1,8 +1,9 @@
 # Linksammlung
 
 ## General
-- Dezentralized vs. distributed
-- https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+- Dezentralized vs. distributed:
+-- Decentralized: https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+-- Distributed: https://blog.stackpath.com/distributed-system/
 
 ## DKMS and SSI
 ### DKMS Intro 
