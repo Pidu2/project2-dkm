@@ -53,3 +53,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Started criteria catalog
 * Tested teams for communication
 * Updated plan and questions
+## 14.03.2020
+* Tested Indy Demo
+* Paralysis Proofs

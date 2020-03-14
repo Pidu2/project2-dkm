@@ -63,6 +63,9 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 - https://medium.com/iov-internet-of-values/private-key-recovery-decentralize-users-responsibility-88fa60ee905
 ### TSS - Threshold signatures
 - https://www.binance.vision/security/threshold-signatures-explained
+### Paralysis Proofs
+- https://eprint.iacr.org/2018/096.pdf
+- https://hackingdistributed.com/2018/01/18/paralysis-proofs/
 ### Anastasis
 - Ein Distributed Key Management System (DKMS) auf Basis DHT ist Anastatis
 - https://docs.taler.net/anastasis.html
@@ -75,3 +78,9 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 
 ## Stuff to research
 - (general) key sharding / SSSS etc (SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ)
+
+## Indy Agent Demo
+- Alice: http://147.87.118.10:3000
+- Bob: http://147.87.118.10:3001
+- Faber College: http://147.87.118.10:3002
+- Acme Corp: http://147.87.118.10:3002

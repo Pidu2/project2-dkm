@@ -13,6 +13,11 @@ Key recovery:
 - Shamir secret sharing scheme -> Hyperledger Indy
 - Threshold signature scheme -> Binance
 
+Solutions for private key recovery:
+- Mnemonic: Is a series of words that can cryptographically derive a private key. Used for Ethereum.
+- Social Recovery: Group of friends are able to recover access to the lost account. Used for WeChat.
+- Paralysis Proofs: Multisig-scheme and one looses a key. Recover this key by proving that the key is lost.
+
 NuCypher and pyUmbral:
 - pyUmbral is the cryptographic engine behind nucypher, a proxy re-encryption network to empower privacy in decentralized systems.
 - pyUmbral distributes N parts of key on a DLT, whereas M parts are required to re-encrypt the data for another user
