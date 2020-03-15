@@ -16,3 +16,7 @@ See links in links.md -> basically there is a lot of different information about
 
 ## HyperLedger Aries vs. Indy
 https://sovrin.org/sovrin-proudly-contributes-to-hyperledger-aries: "One of the architectural components of Indy is called an Agent. This is software that acts on behalf of an identity owner to communicate off-ledger with other Agents. As Agent work continued with the development of message encryption standards, extensible message typing, and common protocols, interest grew in applying these concepts and practices to systems based on other ledgers. It became clear that the right future for Agent work was to extract it from Indy project and add support for other ledger technologies to make that integration easier and more powerful. That work is now known as Hyperledger Aries."
+
+## Argent
+Argent is a smart contract wallet.
+It enables users to recover their wallets even after they've lost their seed phrases, by appointing "Guardians" (either friends, hardware wallets or Argent's own Guard service) who are tasked with agreeing to unlock your wallet.

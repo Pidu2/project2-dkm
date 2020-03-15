@@ -72,9 +72,19 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 
 
 ## Other Infos
-### NuCyhper - Decentralized re-encryption
+### NuCypher - Decentralized re-encryption
 - https://www.youtube.com/watch?v=CxZqqfx24lc (20m)
 - https://github.com/nucypher/nucypher
+
+## Crypto Wallet Recovery
+### Argent - Crypto wallet 
+- https://github.com/argentlabs/argent-contracts/blob/develop/specifications/specifications.pdf
+### Gnosis Safe - Crypto wallet
+- https://gnosis-safe.readthedocs.io/en/latest/contracts/architecture.html
+### ZenGo - "Keyless" Crypto wallet (using TSS)
+- https://zengo.com/security/
+- https://zengo.com/security-in-depth/
+- https://github.com/KZen-networks/multi-party-ecdsa
 
 ## Stuff to research
 - (general) key sharding / SSSS etc (SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ)

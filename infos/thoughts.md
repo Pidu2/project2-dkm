@@ -14,9 +14,14 @@ Key recovery:
 - Threshold signature scheme -> Binance
 
 Solutions for private key recovery:
-- Mnemonic: Is a series of words that can cryptographically derive a private key. Used for Ethereum.
+- Mnemonic: Is a series of words that can cryptographically derive a private key. Used for Ethereum and Binance.
 - Social Recovery: Group of friends are able to recover access to the lost account. Used for WeChat.
 - Paralysis Proofs: Multisig-scheme and one looses a key. Recover this key by proving that the key is lost.
+- Idea: Generate a seed to deterministically generate private key from. Store the seed offline. Recover the keys from this seed.
+What about making this idiot proof?
+
+SSSS vs TSS:
+- Multiple parties have parts of the sk in TSS and not only one party
 
 NuCypher and pyUmbral:
 - pyUmbral is the cryptographic engine behind nucypher, a proxy re-encryption network to empower privacy in decentralized systems.
