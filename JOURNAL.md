@@ -56,3 +56,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 14.03.2020
 * Tested Indy Demo
 * Paralysis Proofs
+## 15.03.2020
+* Tested / Took a look at some Apps and wrote down results
