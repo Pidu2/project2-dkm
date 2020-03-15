@@ -56,3 +56,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 14.03.2020
 * Tested Indy Demo
 * Paralysis Proofs
+## 15.03.2020
+* Searched about crypto wallet key recovery mechanism
+* Read about TSS
