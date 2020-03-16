@@ -61,6 +61,9 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 ### Bitcoin
 - Bitcoin social recovery - threshold signature
 - https://medium.com/iov-internet-of-values/private-key-recovery-decentralize-users-responsibility-88fa60ee905
+### SSSS - Shamir's Secret Sharing Scheme
+- Problems and improvements of SSSS: https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/
+- SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
 ### TSS - Threshold signatures
 - https://www.binance.vision/security/threshold-signatures-explained
 ### Paralysis Proofs
@@ -85,9 +88,6 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 - https://zengo.com/security/
 - https://zengo.com/security-in-depth/
 - https://github.com/KZen-networks/multi-party-ecdsa
-
-## Stuff to research
-- (general) key sharding / SSSS etc (SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ)
 
 ## Indy Agent Demo
 - Alice: http://147.87.118.10:3000
