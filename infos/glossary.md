@@ -7,6 +7,12 @@ The edge layer is where most DKMS private keys and link secrets are generated an
 - A DKMS agent is always installed in an environment that includes a secure element or Trusted Platform Module (for simplicity, this document will use the term "secure element" or “SE” for this module).
 - Private keys used by the agent never leave the secure element.
 
+## HyperLedger Indy recovery mechanism
+- Offline recovery: Offline recovery is the conventional form of backup. It can be performed using many different methods. In DKMS architecture, the standard strategy is to store an encrypted backup of the identity owner’s wallet at the owner’s cloud agent, and then store a private backup recovery key offline. The private backup recovery key can be printed to a paper wallet as one or more QR codes or text strings. It can also be saved to a file on a detachable media device such as a removable disk, hardware wallet or USB key.
+- Social Recovery: A trustee is any person, institution, or service that agrees to assist an identity owner during recovery by (1) securely storing recovery material (called a "share") until a recovery is needed, and (2) positively identifying the identity owner and the authenticity of a recovery request before authorizing release of their shares.
+
+This second step is critical. Trustees MUST strongly authenticate an identity owner during recovery so as to detect if an attacker is trying exploit them to steal a key or secret. Software should aid in ensuring the authentication is strong, for example, confirming the trustee actually conversed with Alice, as opposed to getting an email from her.
+
 ## TSS vs SSS:
 - Key Generation: in SSSS, there is a single party called “the dealer” that is in charge of generating the private key secret shares. It means that at time of Key Generation, the private key is generated at a single location and then distributed by the dealer to the different locations. In TSS, there is no dealer as its role is distributed such that the full private key is never at a single location.
 - Signing: in SSSS, the parties must reconstruct the full private key in order to sign, which again results in a single point of failure each time a signature is needed. In TSS, the signing is done in a distributed way without ever reconstructing the secret shares.
