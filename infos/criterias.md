@@ -3,4 +3,5 @@
 - OpenSource
 - Documentation
 - Key Recovery / Crypto scheme
+- (Use Case)
 - Costs
