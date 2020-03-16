@@ -60,3 +60,12 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Tested / Took a look at some Apps and wrote down results
 * Searched about crypto wallet key recovery mechanism
 * Read about TSS
+## 16.03.2020
+* Teams meeting, updated each other
+* More research
+* Next steps:
+ * Beat: Streetcred Developer Portal
+ * Beat: Argent review
+ * Beat: Indy SDK Key Mgmt Architecture / Is social recovery actually implemented?
+ * Dario: Indy SDK Key Mgmt Architecture / Is social recovery actually implemented?
+ * Dario: Setup Indy Nodes
