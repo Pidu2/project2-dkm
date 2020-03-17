@@ -71,3 +71,8 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Dario: Setup Indy Nodes
 ## 17.03.2020
 * HyperLedger Aries: DKMS (Decentralized Key Management System) Design and Architecture V4
+* Teams meeting with professors
+ * Reviewed Questions and other .md Files
+ * Clarified goals and requirements
+* Updated questions and set new short term goals
+* Next steps: Work on open questions
