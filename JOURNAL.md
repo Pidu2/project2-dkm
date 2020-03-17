@@ -66,6 +66,8 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Next steps:
  * Beat: Streetcred Developer Portal
  * Beat: Argent review
- * Beat: Indy SDK Key Mgmt Architecture / Is social recovery actually implemented?
- * Dario: Indy SDK Key Mgmt Architecture / Is social recovery actually implemented?
+ * Beat: Aries Key Mgmt Architecture / Is social recovery actually implemented?
+ * Dario: Aries Key Mgmt Architecture / Is social recovery actually implemented?
  * Dario: Setup Indy Nodes
+## 17.03.2020
+* HyperLedger Aries: DKMS (Decentralized Key Management System) Design and Architecture V4

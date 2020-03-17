@@ -32,9 +32,18 @@
 - https://wiki.hyperledger.org/display/indy/Hyperledger+Indy
 - https://github.com/hyperledger/indy-sdk/blob/master/README.md
 - https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/topics-and-advance-readings/dkms-decentralized-key-mgmt-system.md
-- https://github.com/hyperledger/indy-sdk/blob/677a0439487a1b7ce64c2e62671ed3e0079cc11f/doc/design/005-dkms/DKMS%20Design%20and%20Architecture%20V3.md
 ### Hyperledger Indy Agents
 - https://www.youtube.com/watch?v=llwfb5Ut5sg (2h)
+### Hyperledger Aries
+- https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0051-dkms/dkms-v4.md
+
+## Social recovery
+- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/social-key-recovery.md
+- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/security_shamirs.md
+- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
+- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/Socia_%20Key_Recovery_design_implentation.md
+- https://github.com/satoshilabs/slips/blob/master/slip-0039.md
+- Draft: https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/shamir-secret-sharing-best-practices.md
 
 ## Sovrin (permissioned blockchain)
 ### Overview

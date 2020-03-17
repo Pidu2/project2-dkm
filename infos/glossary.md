@@ -7,7 +7,7 @@ The edge layer is where most DKMS private keys and link secrets are generated an
 - A DKMS agent is always installed in an environment that includes a secure element or Trusted Platform Module (for simplicity, this document will use the term "secure element" or “SE” for this module).
 - Private keys used by the agent never leave the secure element.
 
-## HyperLedger Indy recovery mechanism
+## HyperLedger Aries recovery mechanism
 - Offline recovery: Offline recovery is the conventional form of backup. It can be performed using many different methods. In DKMS architecture, the standard strategy is to store an encrypted backup of the identity owner’s wallet at the owner’s cloud agent, and then store a private backup recovery key offline. The private backup recovery key can be printed to a paper wallet as one or more QR codes or text strings. It can also be saved to a file on a detachable media device such as a removable disk, hardware wallet or USB key.
 - Social Recovery: A trustee is any person, institution, or service that agrees to assist an identity owner during recovery by (1) securely storing recovery material (called a "share") until a recovery is needed, and (2) positively identifying the identity owner and the authenticity of a recovery request before authorizing release of their shares.
 
