@@ -76,3 +76,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Clarified goals and requirements
 * Updated questions and set new short term goals
 * Next steps: Work on open questions
+## 21.03.2020
+* Wrote mail to streetcred, checked devportal
+* Looked for applications already using social key recovery
