@@ -45,7 +45,6 @@
 - https://github.com/satoshilabs/slips/blob/master/slip-0039.md
 - Draft: https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/shamir-secret-sharing-best-practices.md
 ### SSSS - Shamir's Secret Sharing Scheme
-- Problems and improvements of SSSS: https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
 
 ## Sovrin (permissioned blockchain)
