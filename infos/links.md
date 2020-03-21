@@ -39,11 +39,37 @@
 
 ## Social recovery
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/social-key-recovery.md
+This explains some problems of SSS. It also explains how something like 'It needs 1 of your friends, 1 of your family and 1 of your business partners' can be achieved without e.g. 3 business partners being able to restore the key, altough they are "3 our of N". (called circles)
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/security_shamirs.md
+Their thoughts on SSS and their implementation changes. Also talk about revoking & verification of shares (did a certain party give their correct share -> Public publishing, feldman scheme, schoenmakers scheme). Products of them: **Dark-Crystal**, a social backup and recovery system for secrets such as cryptographic keys, built on the peer-to-peer protocol **Secure Scuttlebutt**. (MMT)
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
+Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/Socia_%20Key_Recovery_design_implentation.md
+Social Key Recovery in regards to the App "Zion"
 - https://github.com/satoshilabs/slips/blob/master/slip-0039.md
-- Draft: https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/shamir-secret-sharing-best-practices.md
+Complicated proposition for a standard of SSS.
+- http://www.moserware.com/2011/11/life-death-and-splitting-secrets.html
+He splitted his PW with SSS (own tool) and explained the process & maths.
+- https://www.popsci.com/technology/article/2010-07/order-seven-cyber-guardians-around-world-now-hold-keys-internet/
+Just the fact, that the DNSSEC Root key is split with SSS.
+- https://pph.io/PolyPasswordHasher/
+Password Managing Scheme for Servers based on SSS. Not so relevant for our use case
+- https://github.com/ryancdotorg/threshcrypt
+Implementation of file encryption using shamir's secret sharing. It takes things a step further, adding passwords to each shard.
+- https://github.com/karlgluck/ThresholdJS
+Basic SSS implementation with live demo
+- https://www.vaultproject.io/
+Vault also uses SSS, that's it.
+- http://passguardian.com/
+Webbased implementation of SSS.
+- https://secrets.dyne.org/about
+Simple Secret Sharing
+- https://raw.githubusercontent.com/kyphae/truename-index/master/index.html
+SSS in one single index.html
+todo:
+- MMT links: https://github.com/blockades/
+- Daan Sprenkels SSS Library with infos on SSS Schemes: https://github.com/dsprenkels/sss
+- Social Key Recovery App Zion: https://play.google.com/store/apps/details?id=com.htc.wallet&hl=en
 ### SSSS - Shamir's Secret Sharing Scheme
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
 
