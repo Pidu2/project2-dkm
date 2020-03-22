@@ -36,16 +36,23 @@
 - https://www.youtube.com/watch?v=llwfb5Ut5sg (2h)
 ### Hyperledger Aries
 - https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0051-dkms/dkms-v4.md
+- Workflows for Aries: https://github.com/hyperledger/aries-rfcs/tree/master/concepts/0051-dkms/images
 
 ## Social recovery
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/social-key-recovery.md
 This explains some problems of SSS. It also explains how something like 'It needs 1 of your friends, 1 of your family and 1 of your business partners' can be achieved without e.g. 3 business partners being able to restore the key, altough they are "3 our of N". (called circles)
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/security_shamirs.md
-Their thoughts on SSS and their implementation changes. Also talk about revoking & verification of shares (did a certain party give their correct share -> Public publishing, feldman scheme, schoenmakers scheme). Products of them: **Dark-Crystal**, a social backup and recovery system for secrets such as cryptographic keys, built on the peer-to-peer protocol **Secure Scuttlebutt**. (MMT)
+Their thoughts on SSS and their implementation changes. Also talk about revoking & verification of shares (did a certain party give their correct share -> Public publishing, feldman scheme, schoenmakers scheme). Products of them: **Dark-Crystal**, a social backup and recovery system for secrets such as cryptographic keys, built on the peer-to-peer protocol **Secure Scuttlebutt**. (MMT) -> https://darkcrystal.pw/
+- https://github.com/blockades/mmt_resources/blob/master/research/coconut_brainstorm.md
+Coconut-related scenarios - what happens if you loose trust in one holder of a shamir secret
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
 Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/Socia_%20Key_Recovery_design_implentation.md
 Social Key Recovery in regards to the App "Zion"
+- https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zion-sdks-skr.md
+Zion Key Management APIs and Social Key Recovery
+- https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-secret-sharing.md
+Publicly verifiable split-key schemes for hybrid secret sharing 
 - https://github.com/satoshilabs/slips/blob/master/slip-0039.md
 Complicated proposition for a standard of SSS.
 - http://www.moserware.com/2011/11/life-death-and-splitting-secrets.html
@@ -66,6 +73,7 @@ Webbased implementation of SSS.
 Simple Secret Sharing
 - https://raw.githubusercontent.com/kyphae/truename-index/master/index.html
 SSS in one single index.html
+
 todo:
 - MMT links: https://github.com/blockades/
 - Daan Sprenkels SSS Library with infos on SSS Schemes: https://github.com/dsprenkels/sss

@@ -76,6 +76,11 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
  * Clarified goals and requirements
 * Updated questions and set new short term goals
 * Next steps: Work on open questions
+* Wrote mail to anastasis project team
 ## 21.03.2020
 * Wrote mail to streetcred, checked devportal
 * Checked links for social key recovery -> wrote thoughts directly to links
+## 22.03.2020
+* Wrote mail to procivis and reclaim-id
+* Read on possible social key recovery mechanism
+* Read on installing Indy nodes

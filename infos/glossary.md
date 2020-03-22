@@ -26,3 +26,14 @@ https://sovrin.org/sovrin-proudly-contributes-to-hyperledger-aries: "One of the 
 ## Argent
 Argent is a smart contract wallet.
 It enables users to recover their wallets even after they've lost their seed phrases, by appointing "Guardians" (either friends, hardware wallets or Argent's own Guard service) who are tasked with agreeing to unlock your wallet.
+
+## Dark Crystal
+Dark Crystal transforms secrets into crystal shards that you can send to trusted friends. If you lose the secret, or something happens to you, your friends can combine the shards to recover the crystal and reveal the secret.
+It uses cryptography so that no individual shard reveals anything about your secret on its own. Your secret is only revealed if the people you chose cooperate and put their shards together. It uses the Scuttlebutt Protocol.
+
+## Scuttlebutt Protocol 
+Scuttlebutt is a protocol for building decentralized applications that work well offline and that no one person can control. Because there is no central server, Scuttlebutt clients connect to their peers to exchange information. This guide describes the protocols used to communicate within the Scuttlebutt network.
+If the client is not publicy accessible it is possible to use Pubs which are publicly-accessible Scuttlebutt peers. Is this really decentralized?
+
+## Three Rs of Key Management
+The three main key management tasks are key reproduction, key recovery, and key rotation. We call these the three Rs of key management.
