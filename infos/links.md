@@ -75,6 +75,8 @@ Simple Secret Sharing
 SSS in one single index.html
 - https://github.com/dsprenkels/sss
 Daan Sprenkels SSS Library with infos on SSS Schemes. Also talks about other libraries and their insecurities. Also says when to use verifiable shares and when not to. This is also the library which the Zion App by HTC Exodus uses! Good talk by him: https://www.youtube.com/watch?v=ojMFCpUt7OU
+- https://cs.iupui.edu/~xzou/Papers/ICCCN2011-SecretSharing.pdf
+New Approach to WEIGHTED secret sharing
 
 todo:
 - look for more info on feldman SS & pedersen SS

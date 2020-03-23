@@ -38,3 +38,16 @@ If the client is not publicy accessible it is possible to use Pubs which are pub
 
 ## Three Rs of Key Management
 The three main key management tasks are key reproduction, key recovery, and key rotation. We call these the three Rs of key management.
+
+## Different Schemes
+### Threshold Secret Sharing
+- List:
+ - Shamir (polynomial based)
+ - Blakley (vector space based)
+ - Mignotte (based on Chinese Remainder Theorem)
+ - Asmuth-Bloom (based on Chinese Remainer Theorem)
+- SSS vs Asmuth-Bloom: https://crypto.stackexchange.com/questions/34317/shamirs-secret-sharing-vs-asmuth-bloom-scheme (asmuth-bloom leaks some information while SSS does not)
+- SSS vs Blakley: Blakley's scheme is less space-efficient than Shamir's [...] (https://en.wikipedia.org/wiki/Secret_sharing#Blakley's_scheme)
+### Verifiable Schemes
+- Pedersen Scheme 
+- Feldman Scheme (based on Shamir)
