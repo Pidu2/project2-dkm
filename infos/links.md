@@ -73,11 +73,11 @@ Webbased implementation of SSS.
 Simple Secret Sharing
 - https://raw.githubusercontent.com/kyphae/truename-index/master/index.html
 SSS in one single index.html
+- https://github.com/dsprenkels/sss
+Daan Sprenkels SSS Library with infos on SSS Schemes. Also talks about other libraries and their insecurities. Also says when to use verifiable shares and when not to. This is also the library which the Zion App by HTC Exodus uses! Good talk by him: https://www.youtube.com/watch?v=ojMFCpUt7OU
 
 todo:
-- MMT links: https://github.com/blockades/
-- Daan Sprenkels SSS Library with infos on SSS Schemes: https://github.com/dsprenkels/sss
-- Social Key Recovery App Zion: https://play.google.com/store/apps/details?id=com.htc.wallet&hl=en
+- look for more info on feldman SS & pedersen SS
 ### SSSS - Shamir's Secret Sharing Scheme
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
 

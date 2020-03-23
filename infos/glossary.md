@@ -30,6 +30,7 @@ It enables users to recover their wallets even after they've lost their seed phr
 ## Dark Crystal
 Dark Crystal transforms secrets into crystal shards that you can send to trusted friends. If you lose the secret, or something happens to you, your friends can combine the shards to recover the crystal and reveal the secret.
 It uses cryptography so that no individual shard reveals anything about your secret on its own. Your secret is only revealed if the people you chose cooperate and put their shards together. It uses the Scuttlebutt Protocol.
+"Sharding (aka Shamir's Secret Sharing) isn't new. What makes Dark Crystal different?" -> While sharding technology has been around for a long time, it hasn't been widely adopted. We think that's because the process is complicated, difficult, and error-prone. Dark Crystal makes it much simpler and more user-friendly. If more people use sharding successfully, fewer secrets will be lost unintentionally.
 
 ## Scuttlebutt Protocol 
 Scuttlebutt is a protocol for building decentralized applications that work well offline and that no one person can control. Because there is no central server, Scuttlebutt clients connect to their peers to exchange information. This guide describes the protocols used to communicate within the Scuttlebutt network.

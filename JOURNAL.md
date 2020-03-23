@@ -84,3 +84,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Wrote mail to procivis and reclaim-id
 * Read on possible social key recovery mechanism
 * Read on installing Indy nodes
+## 23.03.2020
+* More reading on SSS
+* Got email from streetcred
