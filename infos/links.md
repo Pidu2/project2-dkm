@@ -50,7 +50,7 @@ Social Key Recovery in regards to the App "Zion"
 - https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zion-sdks-skr.md
 Zion Key Management APIs and Social Key Recovery
 - https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/evaluating-social-recovery.pdf
-RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryption keys..." -> ?? Also says how TSS could be useful for our usecase. Also emphasises, that there is no sense in restoring a compromised signing key.
+RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryption keys..." -> ?? Also says how TSS could be useful for our usecase. Also emphasises, that there is no sense in restoring a compromised signing key. In the appendix, the questions that have to be answered when implementing a social recovery scheme are summarized, which is also great.
 
 ### SSSS - Shamir's Secret Sharing Scheme / Secret Sharing
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
