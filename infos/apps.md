@@ -12,10 +12,10 @@
 
 # Applications using Social Recovery
 | name | category | remarks | tested? |
-|---|---|---|
+|---|---|---|---|
 |DarkCrystal|Social Network| see glossary|no|
 |Argent|Ethereum Wallet|see glossary|no|
 |Zion|HTC Exodus|see links|no - we can't|
-|[Threshcrypt]|File Encryption|Only SSS, not Social Recovery...https://github.com/ryancdotorg/threshcrypt|no|
-|[Vaultproject]|Secret Store|Only SSS, not Social Recovery...https://www.vaultproject.io/|no|
+|(Threshcrypt)|File Encryption|Only SSS, not Social Recovery...https://github.com/ryancdotorg/threshcrypt |no|
+|(Vaultproject)|Secret Store|Only SSS, not Social Recovery...https://www.vaultproject.io/ |no|
 |Vault12|Crypto Mobile App|see play store|no|
