@@ -13,7 +13,7 @@ The edge layer is where most DKMS private keys and link secrets are generated an
 
 This second step is critical. Trustees MUST strongly authenticate an identity owner during recovery so as to detect if an attacker is trying exploit them to steal a key or secret. Software should aid in ensuring the authentication is strong, for example, confirming the trustee actually conversed with Alice, as opposed to getting an email from her.
 
-## TSS vs SSS:
+## Threshold Signature Scheme TSS vs SSS:
 - Key Generation: in SSSS, there is a single party called “the dealer” that is in charge of generating the private key secret shares. It means that at time of Key Generation, the private key is generated at a single location and then distributed by the dealer to the different locations. In TSS, there is no dealer as its role is distributed such that the full private key is never at a single location.
 - Signing: in SSSS, the parties must reconstruct the full private key in order to sign, which again results in a single point of failure each time a signature is needed. In TSS, the signing is done in a distributed way without ever reconstructing the secret shares.
 
@@ -26,6 +26,8 @@ https://sovrin.org/sovrin-proudly-contributes-to-hyperledger-aries: "One of the 
 ## Argent
 Argent is a smart contract wallet.
 It enables users to recover their wallets even after they've lost their seed phrases, by appointing "Guardians" (either friends, hardware wallets or Argent's own Guard service) who are tasked with agreeing to unlock your wallet.
+
+-----to show-----
 
 ## Dark Crystal
 Dark Crystal transforms secrets into crystal shards that you can send to trusted friends. If you lose the secret, or something happens to you, your friends can combine the shards to recover the crystal and reveal the secret.
@@ -51,3 +53,4 @@ The three main key management tasks are key reproduction, key recovery, and key 
 ### Verifiable Schemes
 - Pedersen Scheme 
 - Feldman Scheme (based on Shamir)
+- Schoenmakers scheme
