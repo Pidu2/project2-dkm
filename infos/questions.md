@@ -14,8 +14,8 @@
 | 17.03.2020 | HyperLedger | Aries implementation w/ social recovery | Open | | |
 | 17.03.2020 | Social Recovery | Look into social recovery links | Open | | |
 | 17.03.2020 | Reclaim:ID | Ask for key recovery options | Done | No solution. They may use anastasis. | x |
-| 17.03.2020 | Anastasis | Ask whether they are using SSS | Open | Mail sent | x |
+| 17.03.2020 | Anastasis | Ask whether they are using SSS | Done | No they have their own implementation. | x |
 | 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? |X|
-| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Open | Pedersen, Feldman VSS... |X|
 | 24.03.2020 | General | Comparing Applications (Dark Crystal, StreetCred.id) or key recovery mechanism? Use cases on Applications or on key recovery mechanism | Open || x |
-| 24.03.2020 | General | Who backups the configuration if you loose the information who you gave shares? | Open |||
+| 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
+| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Open | Pedersen, Feldman VSS... |X|
