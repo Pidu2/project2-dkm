@@ -45,12 +45,18 @@ This explains some problems of SSS. It also explains how something like 'It need
 Their thoughts on SSS and their implementation changes. Also talk about revoking & verification of shares (did a certain party give their correct share -> Public publishing, feldman scheme, schoenmakers scheme). Products of them: **Dark-Crystal**, a social backup and recovery system for secrets such as cryptographic keys, built on the peer-to-peer protocol **Secure Scuttlebutt**. (MMT) -> https://darkcrystal.pw/
 - https://github.com/blockades/mmt_resources/blob/master/research/coconut_brainstorm.md
 Coconut-related scenarios - what happens if you loose trust in one holder of a shamir secret
-- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
-Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/Socia_%20Key_Recovery_design_implentation.md
 Social Key Recovery in regards to the App "Zion"
 - https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zion-sdks-skr.md
 Zion Key Management APIs and Social Key Recovery
+- https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/evaluating-social-recovery.pdf
+RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryption keys..." -> ?? Also says how TSS could be useful for our usecase. Also emphasises, that there is no sense in restoring a compromised signing key.
+
+### SSSS - Shamir's Secret Sharing Scheme / Secret Sharing
+- SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
+- Case AGAINST SSS by Bitcoin: https://en.bitcoin.it/wiki/Shamir_Secret_Snakeoil
+- https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
+Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
 - https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-secret-sharing.md
 Publicly verifiable split-key schemes for hybrid secret sharing 
 - https://github.com/satoshilabs/slips/blob/master/slip-0039.md
@@ -77,13 +83,6 @@ SSS in one single index.html
 Daan Sprenkels SSS Library with infos on SSS Schemes. Also talks about other libraries and their insecurities. Also says when to use verifiable shares and when not to. This is also the library which the Zion App by HTC Exodus uses! Good talk by him: https://www.youtube.com/watch?v=ojMFCpUt7OU
 - https://cs.iupui.edu/~xzou/Papers/ICCCN2011-SecretSharing.pdf
 New Approach to WEIGHTED secret sharing
-
-todo:
-- look for more info on feldman SS & pedersen SS
-- look at RWOT "key recovery"
-### SSSS - Shamir's Secret Sharing Scheme
-- SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
-- Case AGAINST SSS by Bitcoin: https://en.bitcoin.it/wiki/Shamir_Secret_Snakeoil
 
 ## Sovrin (permissioned blockchain)
 ### Overview
