@@ -80,8 +80,10 @@ New Approach to WEIGHTED secret sharing
 
 todo:
 - look for more info on feldman SS & pedersen SS
+- look at RWOT "key recovery"
 ### SSSS - Shamir's Secret Sharing Scheme
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
+- Case AGAINST SSS by Bitcoin: https://en.bitcoin.it/wiki/Shamir_Secret_Snakeoil
 
 ## Sovrin (permissioned blockchain)
 ### Overview
