@@ -93,3 +93,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Teams meeting, updated each other
 * More applications
 * Read vault12 whitepaper
+## 26.03.2020
+* Teams meeting
