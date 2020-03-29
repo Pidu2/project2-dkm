@@ -130,7 +130,7 @@ https://adorsys-platform.de/solutions/social-key-recovery/
 ### ZenGo - "Keyless" Crypto wallet (using TSS)
 - https://zengo.com/security/
 - https://zengo.com/security-in-depth/
-- https://github.com/KZen-networks/multi-party-ecdsa
+- Key Recovery: https://zengo.com/how-zengo-guarantees-access-to-customers-funds/
 
 ## Indy Agent Demo
 - Alice: http://147.87.118.10:3000

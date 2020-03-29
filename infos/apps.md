@@ -18,4 +18,4 @@
 |Zion|HTC Exodus|see links|no - we can't|
 |(Threshcrypt)|File Encryption|Only SSS, not Social Recovery...https://github.com/ryancdotorg/threshcrypt |no|
 |(Vaultproject)|Secret Store|Only SSS, not Social Recovery...https://www.vaultproject.io/ |no|
-|Vault12|Crypto Mobile App|see play store & whitepaper: https://s3-us-west-1.amazonaws.com/vault12/Vault12+Platform+White+Paper.pdf|no|
+|Vault12|Crypto Mobile App|see play store & whitepaper: https://s3-us-west-1.amazonaws.com/vault12/Vault12+Platform+White+Paper.pdf|open|
