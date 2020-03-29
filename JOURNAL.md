@@ -95,3 +95,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Read vault12 whitepaper
 ## 26.03.2020
 * Teams meeting
+## 29.03.2020
+* Further reading about key recovery mechanism
