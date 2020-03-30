@@ -5,7 +5,7 @@
 | 17.03.2020 | procivis | Look/ask for documentation (key recovery) | Open | Mail sent |  |
 | 03.03.2020 | Applications | Usable Apps?: Have a look at streetcred.id, keepin, globaliD and other apps | Discontinued | apps.md & Look into streetcred devportal. -> wallet is completely interoperable with aries protocol standard. devportal is easy way to talk to their API to issue credentials etc for aries wallets without writing code (connections, credentials, verifications, organizations..). wallet should be great tool for developing own applications with detailed error messages etc. Nothing for key recovery on the devportal -> email: no solution built in so far, but will also be using mnemonic (bip-0039).|X |
 | 17.03.2020 | Applications | Look for applications that actually support social key recovery | Open | See glossary and apps.md | |
-| 17.03.2020 | HyperLedger | Aries implementation w/ social recovery | Open | | |
+| 17.03.2020 | HyperLedger | Aries implementation w/ social recovery -> Check all "Sovrin Stewards" | Open | | |
 | 17.03.2020 | Social Recovery | Look into social recovery links | Open | | |
 | 17.03.2020 | Reclaim:ID | Ask for key recovery options | Done | No solution. They may use anastasis. | x |
 | 17.03.2020 | Anastasis | Ask whether they are using SSS | Done | No they have their own implementation. | x |
