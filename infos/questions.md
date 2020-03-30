@@ -15,6 +15,7 @@
 
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
+| :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
 | | General | DKMS all of it or only key recovery (etc.)?  | Closed | Focus key recovery | |
 | | General | SSI / DKMS -> SSI how deep? Key recovery only SSI? | Closed | Solution has to be usable for SSI/FIDO | |
 | 03.03.2020 | General | Decentralized vs. distributed (naming) | Closed  | Check glossary | |
