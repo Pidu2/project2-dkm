@@ -3,16 +3,17 @@
 | | General | Swisscom connections? | Open | Mrs Laube will check for connections | x |
 | 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | To test | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
 | 17.03.2020 | procivis | Look/ask for documentation (key recovery) | Open | Mail sent |  |
-| 03.03.2020 | Applications | Usable Apps?: Have a look at streetcred.id, keepin, globaliD and other apps | Discontinued | apps.md & Look into streetcred devportal. -> wallet is completely interoperable with aries protocol standard. devportal is easy way to talk to their API to issue credentials etc for aries wallets without writing code (connections, credentials, verifications, organizations..). wallet should be great tool for developing own applications with detailed error messages etc. Nothing for key recovery on the devportal -> email: no solution built in so far, but will also be using mnemonic (bip-0039).|X |
+| 03.03.2020 | Applications | Usable Apps?: Have a look at streetcred.id, keepin, globaliD and other apps | Discontinued | apps.md & Look into streetcred devportal. -> wallet is completely interoperable with aries protocol standard. devportal is easy way to talk to their API to issue credentials etc for aries wallets without writing code (connections, credentials, verifications, organizations..). wallet should be great tool for developing own applications with detailed error messages etc. Nothing for key recovery on the devportal -> email: no solution built in so far, but will also be using mnemonic (bip-0039).|x|
 | 17.03.2020 | Applications | Look for applications that actually support social key recovery | Open | See glossary and apps.md | |
 | 17.03.2020 | HyperLedger | Aries implementation w/ social recovery -> Check all "Sovrin Stewards" | Open | | |
 | 17.03.2020 | Social Recovery | Look into social recovery links | Open | | |
 | 17.03.2020 | Reclaim:ID | Ask for key recovery options | Done | No solution. They may use anastasis. | x |
 | 17.03.2020 | Anastasis | Ask whether they are using SSS | Done | No they have their own implementation. | x |
-| 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? |X|
+| 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? |x|
 | 24.03.2020 | General | Comparing Applications (Dark Crystal, StreetCred.id) or key recovery mechanism? Use cases on Applications or on key recovery mechanism | Open || x |
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
-| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Open | Pedersen, Feldman VSS... |X|
+| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Open | Pedersen, Feldman VSS... |x|
+| 30.03.2020 | General | Comparing Apps with decentralized and social key recovery or all with key recovery | Open ||x |
 
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
