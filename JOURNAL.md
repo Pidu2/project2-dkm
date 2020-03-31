@@ -97,3 +97,10 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Teams meeting
 ## 29.03.2020
 * Further reading about key recovery mechanism
+## 30.03.2020
+* Teams meeting
+ * Discussed vault12 and next steps
+## 31.03.2020
+* Teams meeting with professors
+ * Reviewed Questions and other .md Files
+
