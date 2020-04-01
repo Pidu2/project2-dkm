@@ -103,4 +103,13 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 31.03.2020
 * Teams meeting with professors
  * Reviewed Questions and other .md Files
+## 01.04.2020
+* Follow up meeting on Teams
+* Next steps
+ * Archive apps -> Keep only the ones we want to discuss
+ * Archive links -> Keep only needed ones
+ * Describe how these apps could solve our use cases (maybe own file)
+ * Step by step take links and apps to "master" file (maybe already in word)
+ * **Keep looking for apps (not only social recovery, but all key recovery)**
+ * Continously update final document "layout"
 
