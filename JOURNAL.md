@@ -106,10 +106,11 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 01.04.2020
 * Follow up meeting on Teams
 * Next steps
- * Archive apps -> Keep only the ones we want to discuss
- * Archive links -> Keep only needed ones
- * Describe how these apps could solve our use cases (maybe own file)
- * Step by step take links and apps to "master" file (maybe already in word)
- * **Keep looking for apps (not only social recovery, but all key recovery)**
- * Continously update final document "layout"
+  * Archive apps -> Keep only the ones we want to discuss
+  * Archive links -> Keep only needed ones
+  * **Keep looking for apps (not only social recovery, but all key recovery)**
+  * Continously update final document "layout"
+* "2nd next steps"
+  * Describe how these apps could solve our use cases (maybe own file)
+  * Step by step take links and apps to "master" file (maybe already in word)
 
