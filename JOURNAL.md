@@ -19,10 +19,10 @@
 We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 25.02.2020
 * Meeting @ BFH
- * Decision: Language -> German
- * Wrote down some questions to look at in the next meeting with professors.
- * Checked Links and categorized them
- * Initial Overview
+  * Decision: Language -> German
+  * Wrote down some questions to look at in the next meeting with professors.
+  * Checked Links and categorized them
+  * Initial Overview
 ## 29.02.2020/30.02.2020
 * Informing ourselves (book, links, videos..)
 * Read part of SSI book
@@ -33,15 +33,15 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Looked at links
 * Free which solutions for the DKMS problem to describe
 * ToDo
- * What's necessary to install a HyperLedger Indy blockchain?
- * HyperLedger Aries vs. Indy?
- * Which system could be installed?
- * Criteria catalog for the DKMS problem -> will be used for comparing the solutions
- * Distributed vs. Decentralized
- * Update plan with criteria catalog
- * Have a look at streetcred.id, keepin, globaliD and other apps
- * Get documents about Anastasis from Mr Grothoff
- * Order virtual machines for HyperLedger Indy
+  * What's necessary to install a HyperLedger Indy blockchain?
+  * HyperLedger Aries vs. Indy?
+  * Which system could be installed?
+  * Criteria catalog for the DKMS problem -> will be used for comparing the solutions
+  * Distributed vs. Decentralized
+  * Update plan with criteria catalog
+  * Have a look at streetcred.id, keepin, globaliD and other apps
+  * Get documents about Anastasis from Mr Grothoff
+  * Order virtual machines for HyperLedger Indy
 ## 06.03.2020
 * Talked to students currently doing their BaTh about Anastasis -> Currently only the spec exists and therefore the system is not practically useable
 * Ordered VMs
@@ -49,7 +49,7 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Video about Indy agents
 ## 09.03.2020
 * Checked infos on nucypher
- * Read "UMBRAL: A THRESHOLD PROXY RE-ENCRYPTION SCHEME"
+  * Read "UMBRAL: A THRESHOLD PROXY RE-ENCRYPTION SCHEME"
 * Started criteria catalog
 * Tested teams for communication
 * Updated plan and questions
@@ -64,16 +64,16 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Teams meeting, updated each other
 * More research
 * Next steps:
- * Beat: Streetcred Developer Portal
- * Beat: Argent review
- * Beat: Aries Key Mgmt Architecture / Is social recovery actually implemented?
- * Dario: Aries Key Mgmt Architecture / Is social recovery actually implemented?
- * Dario: Setup Indy Nodes
+  * Beat: Streetcred Developer Portal
+  * Beat: Argent review
+  * Beat: Aries Key Mgmt Architecture / Is social recovery actually implemented?
+  * Dario: Aries Key Mgmt Architecture / Is social recovery actually implemented?
+  * Dario: Setup Indy Nodes
 ## 17.03.2020
 * HyperLedger Aries: DKMS (Decentralized Key Management System) Design and Architecture V4
 * Teams meeting with professors
- * Reviewed Questions and other .md Files
- * Clarified goals and requirements
+  * Reviewed Questions and other .md Files
+  * Clarified goals and requirements
 * Updated questions and set new short term goals
 * Next steps: Work on open questions
 * Wrote mail to anastasis project team
@@ -99,10 +99,10 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Further reading about key recovery mechanism
 ## 30.03.2020
 * Teams meeting
- * Discussed vault12 and next steps
+  * Discussed vault12 and next steps
 ## 31.03.2020
 * Teams meeting with professors
- * Reviewed Questions and other .md Files
+  * Reviewed Questions and other .md Files
 ## 01.04.2020
 * Follow up meeting on Teams
 * Next steps
