@@ -11,6 +11,7 @@ Document layout:
 - Introduction
 - Explain SSI and/or use case
 - Key recovery technologies (basic technologies for key recovery e.g. crypto TSS/SSSS)
+  * Possibly one example application using that technology
 - Criteria catalog explanation
 - Criteria catalog with a possible solutions per key recovery technology -> Table/Matrix
 - Key recovery showcase (actual usage of one of these apps/technologies)

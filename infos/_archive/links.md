@@ -1,5 +1,10 @@
 # Linksammlung
 
+## General
+* Dezentralized vs. distributed:
+  * Decentralized: https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+  * Distributed: https://blog.stackpath.com/distributed-system/
+
 ## DKMS and SSI
 ### DKMS Intro 
 - https://www.youtube.com/watch?v=LOrXOxc2yp0 (7m)
@@ -12,7 +17,9 @@
 - https://hackernoon.com/solutions-for-private-key-management-in-decentralized-apps-24f95634be16
 ### SSI
 - https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> links also to hyperledger/indy solution
+- Book (A comprehensive guide to SSI - Kaliya Young)
 - https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity
+- https://identitywoman.net
 - http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
 - DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI / https://www.youtube.com/watch?v=gf2g4O3yqCc / https://www.youtube.com/watch?v=SHuRRaOBMz4
 - Verifiable Credentials (video by drummond reed): https://www.youtube.com/watch?v=6O_iJnhIh5o
@@ -52,8 +59,26 @@ RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryp
 Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
 - https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-secret-sharing.md
 Publicly verifiable split-key schemes for hybrid secret sharing 
+- https://github.com/satoshilabs/slips/blob/master/slip-0039.md
+Complicated proposition for a standard of SSS.
+- http://www.moserware.com/2011/11/life-death-and-splitting-secrets.html
+He splitted his PW with SSS (own tool) and explained the process & maths.
 - https://www.popsci.com/technology/article/2010-07/order-seven-cyber-guardians-around-world-now-hold-keys-internet/
 Just the fact, that the DNSSEC Root key is split with SSS.
+- https://pph.io/PolyPasswordHasher/
+Password Managing Scheme for Servers based on SSS. Not so relevant for our use case
+- https://github.com/ryancdotorg/threshcrypt
+Implementation of file encryption using shamir's secret sharing. It takes things a step further, adding passwords to each shard.
+- https://github.com/karlgluck/ThresholdJS
+Basic SSS implementation with live demo
+- https://www.vaultproject.io/
+Vault also uses SSS, that's it.
+- http://passguardian.com/
+Webbased implementation of SSS.
+- https://secrets.dyne.org/about
+Simple Secret Sharing
+- https://raw.githubusercontent.com/kyphae/truename-index/master/index.html
+SSS in one single index.html
 - https://github.com/dsprenkels/sss
 Daan Sprenkels SSS Library with infos on SSS Schemes. Also talks about other libraries and their insecurities. Also says when to use verifiable shares and when not to. This is also the library which the Zion App by HTC Exodus uses! Good talk by him: https://www.youtube.com/watch?v=ojMFCpUt7OU
 - https://cs.iupui.edu/~xzou/Papers/ICCCN2011-SecretSharing.pdf
@@ -61,6 +86,8 @@ New Approach to WEIGHTED secret sharing
 
 ## Sovrin (permissioned blockchain)
 ### Overview
+- https://sovrin.org/library/
+- Evernym (SSI Company behind Sovrin): https://www.evernym.com/
 - stealing phone: https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf
 - https://www.windley.com/archives/2017/09/is_sovrin_decentralized.shtml
 
@@ -69,9 +96,14 @@ New Approach to WEIGHTED secret sharing
 - https://media.ccc.de/v/ds19-10383-re_claimid
 - https://arxiv.org/pdf/1805.06253.pdf
 
+## Swisscom Blockchain
+- https://www.blockchain.swisscom.com/event-details/
+
 ## Other Solutions
 ### longplay.me
 - longplay.me
+### Social key recovery
+https://adorsys-platform.de/solutions/social-key-recovery/
 ### Bitcoin
 - Bitcoin social recovery - threshold signature
 - https://medium.com/iov-internet-of-values/private-key-recovery-decentralize-users-responsibility-88fa60ee905
@@ -84,6 +116,11 @@ New Approach to WEIGHTED secret sharing
 - Ein Distributed Key Management System (DKMS) auf Basis DHT ist Anastatis
 - https://docs.taler.net/anastasis.html
 
+
+## Other Infos
+### NuCypher - Decentralized re-encryption
+- https://www.youtube.com/watch?v=CxZqqfx24lc (20m)
+- https://github.com/nucypher/nucypher
 
 ## Crypto Wallet Recovery
 ### Argent - Crypto wallet 

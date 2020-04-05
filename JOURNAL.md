@@ -113,4 +113,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * "2nd next steps"
   * Describe how these apps could solve our use cases (maybe own file)
   * Step by step take links and apps to "master" file (maybe already in word)
-
+## 05.04.2020
+* Archiving Apps and Links
+* Further work on recovery apps
