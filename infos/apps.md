@@ -1,10 +1,10 @@
 # Mobile SSI Apps
 | name | category | remarks |
 |---|---|---|
-|keepin|Identity Wallet|<ul><li>Own ecosystem with own DID method and own blockchain</li><li>Mnemonic recovery -> full responsibility to safe the "private key & recovery code"</li></ul>|
-|uport|Identity Wallet for their ecosystem?|<ul><li>Based on Ethereum</li><li>Uses the open standards</li><li>12 word recovery seed phrase</li></ul>|
+|keepin|Identity Wallet|<ul><li>Own ecosystem with own DID method and own blockchain</li><li>**Mnemonic recovery** -> full responsibility to safe the "private key & recovery code"</li></ul>|
+|uport|Identity Wallet for their ecosystem?|<ul><li>Based on Ethereum</li><li>Uses the open standards</li><li>**12 word recovery seed phrase**</li></ul>|
 |Blockpass User-Controlled Identity|Identity Wallet for their own ecosystem|Completely own ecosystem, recovery by backup PIN|
-|Connect.Me - Digital Identity Wallet|Identity Wallet|<ul><li>Sovrin Ecosystem, App by Evernym</li><li>Backup/Restore either in evernym cloud with recovery phrase or local backup file with recovery phrase. Altough we've seen that hyperledger indy does seem to support social recovery, it's not built into this app</li><li>"Real" SSI -> No lock-in on Evernym</li></ul>|
+|Connect.Me - Digital Identity Wallet|Identity Wallet|<ul><li>Sovrin Ecosystem, App by Evernym</li><li>Backup/Restore either in evernym cloud with **recovery phrase** or local backup file with recovery phrase. Altough we've seen that hyperledger indy does seem to support social recovery, it's not built into this app</li><li>"Real" SSI -> No lock-in on Evernym</li></ul>|
 
 # Applications using Social Recovery
 | name | category | remarks | tested? |
@@ -12,3 +12,15 @@
 |DarkCrystal|Social Network| see glossary|no|
 |Argent|Ethereum Wallet|see glossary|no|
 |Vault12|Crypto Mobile App|see play store & whitepaper: https://s3-us-west-1.amazonaws.com/vault12/Vault12+Platform+White+Paper.pdf|open|
+
+# Applications using Key Escrow
+| name | category | remarks | tested? |
+|---|---|---|---|
+|Coinbase, Binance etc. | Cloud-Wallet |not SSI usecase |yes|
+|OneDrive, Dropbox etc | Cloud |(encrypted) backup of seed phrase |yes|
+
+# Applications using Biometrics
+| name | category | remarks | tested? |
+|---|---|---|---|
+|Offline Vault | Offline Vault |offline backup of seed phrase |no|
+# Applications using Threshold Singing

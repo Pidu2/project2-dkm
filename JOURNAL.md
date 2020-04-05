@@ -115,4 +115,4 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Step by step take links and apps to "master" file (maybe already in word)
 ## 05.04.2020
 * Archiving Apps and Links
-* Further work on recovery apps
+* Further work on recovery mechanisms and apps

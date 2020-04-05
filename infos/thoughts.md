@@ -1,12 +1,10 @@
 Solutions for private key recovery:
-- Mnemonic: Is a series of words that can cryptographically derive a private key. Used for Ethereum and Binance.
+- Mnemonic / Seed phrase: Is a series of words that can cryptographically derive a private key. Used for Ethereum and Binance.
 - Social Recovery: Group of friends are able to recover access to the lost account. Used for WeChat. (SSS)
-- Paralysis Proofs: Multisig-scheme and one looses a key. Recover this key by proving that the key is lost.
+- (Paralysis Proofs: Multisig-scheme and one looses a key. Recover this key by proving that the key is lost. -> not really usable for SSI..?)
 - Key recovery by Threshold Signing the new key (name?)
-- Idea: Generate a seed to deterministically generate private key from. Store the seed offline. Recover the keys from this seed. -> isn't this the same as mnemonic?
-- Key escrow: 3rd party is granted access to key under certain circumstances
-
-What about making this idiot proof?
+- Key escrow: key is held under escrow- access to key is granted under certain circumstances
+- Biometrics
 
 Document layout:
 - Management Summary
