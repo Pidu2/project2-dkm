@@ -11,7 +11,15 @@
 |---|---|---|---|
 |DarkCrystal|Social Network| see glossary|no|
 |Argent|Ethereum Wallet|see glossary|no|
-|Vault12|Crypto Mobile App|see play store & whitepaper: https://s3-us-west-1.amazonaws.com/vault12/Vault12+Platform+White+Paper.pdf|open|
+|Vault12|Crypto App|see play store & whitepaper: https://s3-us-west-1.amazonaws.com/vault12/Vault12+Platform+White+Paper.pdf |open|
+|longplay.me|Key Recovery Service| |no|
+|Argent|Crypto Wallet|https://github.com/argentlabs/argent-contracts/blob/develop/specifications/specifications.pdf |no|
+|Gnosis|Crypto Wallet|https://gnosis-safe.readthedocs.io/en/latest/contracts/architecture.html |no|
+
+# Applications using TSS
+| name | category | remarks | tested? |
+|---|---|---|---|
+|ZenGo|Crypto Wallet| <ul><li>https://zengo.com/security/</li><li>https://zengo.com/security-in-depth/</li><li>Key Recovery: https://zengo.com/how-zengo-guarantees-access-to-customers-funds/</li></ul>|no|
 
 # Applications using Key Escrow
 | name | category | remarks | tested? |
