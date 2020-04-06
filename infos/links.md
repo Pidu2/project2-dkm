@@ -1,35 +1,9 @@
 # Linksammlung
 
-## DKMS and SSI
-### DKMS Intro 
-- https://www.youtube.com/watch?v=LOrXOxc2yp0 (7m)
-- general questions about key management
-### Intro to problems and solutions from Evernym 
-- Video (1h) and slides
-- https://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/
-- extended introduction with a hint to Hyperledger Indy
-### Different methods for key recovery (Ethereum)
-- https://hackernoon.com/solutions-for-private-key-management-in-decentralized-apps-24f95634be16
-### SSI
-- https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> links also to hyperledger/indy solution
-- https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity
-- http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
-- DIDs (video by drummond reed): https://www.youtube.com/watch?v=LkUkcoyksSI / https://www.youtube.com/watch?v=gf2g4O3yqCc / https://www.youtube.com/watch?v=SHuRRaOBMz4
-- Verifiable Credentials (video by drummond reed): https://www.youtube.com/watch?v=6O_iJnhIh5o
-- Aries (Agents part) (video by drummond reed): https://www.youtube.com/watch?v=PXPZQB3VG9w
-
-## Hyperledger Indy (open-source Sovrin):
-### Documentation
-- https://www.hyperledger.org/projects/hyperledger-indy
-- https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/design/005-dkms/
-- https://wiki.hyperledger.org/display/indy/Hyperledger+Indy
-- https://github.com/hyperledger/indy-sdk/blob/master/README.md
-- https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/topics-and-advance-readings/dkms-decentralized-key-mgmt-system.md
-### Hyperledger Indy Agents
-- https://www.youtube.com/watch?v=llwfb5Ut5sg (2h)
-### Hyperledger Aries
-- https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0051-dkms/dkms-v4.md
-- Workflows for Aries: https://github.com/hyperledger/aries-rfcs/tree/master/concepts/0051-dkms/images
+## SSI 
+- https://www.youtube.com/watch?v=LOrXOxc2yp0 -> general questions about key management for SSI
+- https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186 -> SSI basics
+- https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf -> stealing phone
 
 ## Social recovery
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/social-key-recovery.md
@@ -40,8 +14,6 @@ Their thoughts on SSS and their implementation changes. Also talk about revoking
 Coconut-related scenarios - what happens if you loose trust in one holder of a shamir secret
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/Socia_%20Key_Recovery_design_implentation.md
 Social Key Recovery in regards to the App "Zion"
-- https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zion-sdks-skr.md
-Zion Key Management APIs and Social Key Recovery
 - https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/evaluating-social-recovery.pdf
 RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryption keys..." -> ?? Also says how TSS could be useful for our usecase. Also emphasises, that there is no sense in restoring a compromised signing key. In the appendix, the questions that have to be answered when implementing a social recovery scheme are summarized, which is also great.
 
@@ -50,28 +22,12 @@ RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryp
 - Case AGAINST SSS by Bitcoin: https://en.bitcoin.it/wiki/Shamir_Secret_Snakeoil
 - https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/implementing-threshold-schemes.md
 Daan Sprenkels talks about integrity protection of the shares -> Feldman VSS, Pederson VSS, Hashing. Gives advantages and disadvantages of all the possibilities and explains problems.
-- https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-secret-sharing.md
-Publicly verifiable split-key schemes for hybrid secret sharing 
 - https://www.popsci.com/technology/article/2010-07/order-seven-cyber-guardians-around-world-now-hold-keys-internet/
 Just the fact, that the DNSSEC Root key is split with SSS.
 - https://github.com/dsprenkels/sss
 Daan Sprenkels SSS Library with infos on SSS Schemes. Also talks about other libraries and their insecurities. Also says when to use verifiable shares and when not to. This is also the library which the Zion App by HTC Exodus uses! Good talk by him: https://www.youtube.com/watch?v=ojMFCpUt7OU
-- https://cs.iupui.edu/~xzou/Papers/ICCCN2011-SecretSharing.pdf
-New Approach to WEIGHTED secret sharing
-
-## Sovrin (permissioned blockchain)
-### Overview
-- stealing phone: https://sovrin.org/wp-content/uploads/2019/03/What-if-someone-steals-my-phone-110319.pdf
-- https://www.windley.com/archives/2017/09/is_sovrin_decentralized.shtml
-
-## re:ClaimID
-- re:ClaimID based on GNS. Login just like OpenID Connect (transparent for user):
-- https://media.ccc.de/v/ds19-10383-re_claimid
-- https://arxiv.org/pdf/1805.06253.pdf
 
 ## Other Solutions
-### longplay.me
-- longplay.me
 ### Bitcoin
 - Bitcoin social recovery - threshold signature
 - https://medium.com/iov-internet-of-values/private-key-recovery-decentralize-users-responsibility-88fa60ee905
@@ -80,23 +36,5 @@ New Approach to WEIGHTED secret sharing
 ### Paralysis Proofs
 - https://eprint.iacr.org/2018/096.pdf
 - https://hackingdistributed.com/2018/01/18/paralysis-proofs/
-### Anastasis
-- Ein Distributed Key Management System (DKMS) auf Basis DHT ist Anastatis
-- https://docs.taler.net/anastasis.html
-
-
-## Crypto Wallet Recovery
-### Argent - Crypto wallet 
-- https://github.com/argentlabs/argent-contracts/blob/develop/specifications/specifications.pdf
-### Gnosis Safe - Crypto wallet
-- https://gnosis-safe.readthedocs.io/en/latest/contracts/architecture.html
-### ZenGo - "Keyless" Crypto wallet (using TSS)
-- https://zengo.com/security/
-- https://zengo.com/security-in-depth/
-- Key Recovery: https://zengo.com/how-zengo-guarantees-access-to-customers-funds/
-
-## Indy Agent Demo
-- Alice: http://147.87.118.10:3000
-- Bob: http://147.87.118.10:3001
-- Faber College: http://147.87.118.10:3002
-- Acme Corp: http://147.87.118.10:3002
+### Different methods for key recovery (Ethereum)
+- https://hackernoon.com/solutions-for-private-key-management-in-decentralized-apps-24f95634be16
