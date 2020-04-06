@@ -116,3 +116,12 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 05.04.2020
 * Archiving Apps and Links
 * Further work on recovery mechanisms and apps
+## 06.04.2020
+* Teams Meeting
+  * Archived more links
+  * Discussed next steps
+* Next steps
+  * **Keep looking for apps that use different recovery mechanisms**
+  * Continously update final document "layout"
+  * Look for more opinions on VSS in SSI scenario
+  * Write mail to longplay.me
