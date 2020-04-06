@@ -24,8 +24,7 @@
 # Applications using Key Escrow
 | name | category | remarks | tested? |
 |---|---|---|---|
-|Coinbase, Binance etc. | Cloud-Wallet |not SSI usecase |yes|
-|OneDrive, Dropbox etc | Cloud |(encrypted) backup of seed phrase |yes|
+|ZenGo|Crypto Wallet| <ul><li>https://zengo.com/security/</li><li>https://zengo.com/security-in-depth/</li><li>Key Recovery: https://zengo.com/how-zengo-guarantees-access-to-customers-funds/</li></ul>|no|
 
 # Applications using Biometrics
 | name | category | remarks | tested? |
