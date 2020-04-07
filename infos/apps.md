@@ -30,3 +30,4 @@
 | name | category | remarks | tested? |
 |---|---|---|---|
 |Offline Vault | Offline Vault |offline backup of seed phrase |no|
+|Lastpass|PW Manager|replaceable with other pw managers using biometrics|no|
