@@ -125,3 +125,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Continously update final document "layout"
   * Look for more opinions on VSS in SSI scenario
   * Write mail to longplay.me
+## 07.04.2020
+* Looked for more opinions on VSS -> don't think there exist any.
+* Apps...
