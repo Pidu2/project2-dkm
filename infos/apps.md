@@ -30,4 +30,3 @@
 | name | category | remarks | tested? |
 |---|---|---|---|
 |Offline Vault | Offline Vault |offline backup of seed phrase |no|
-# Applications using Threshold Singing
