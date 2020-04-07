@@ -1,13 +1,11 @@
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
-| 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | To test | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
 | 17.03.2020 | procivis | Look/ask for documentation (key recovery) | Open | Mail sent |  |
 | 17.03.2020 | Applications | Look for applications that actually support social key recovery | Open | See glossary and apps.md | |
 | 17.03.2020 | HyperLedger | Aries implementation w/ social recovery -> Check all "Sovrin Stewards" | Open | | |
-| 17.03.2020 | Social Recovery | Look into social recovery links | Open | | |
 | 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? ||
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
-| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Open | Pedersen, Feldman VSS... |x|
+| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. |x|
 
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
@@ -24,3 +22,5 @@
 | 17.03.2020 | Anastasis | Ask whether they are using SSS | Done | No they have their own implementation. | |
 | 24.03.2020 | General | Comparing Applications (Dark Crystal, StreetCred.id) or key recovery mechanism? Use cases on Applications or on key recovery mechanism | Closed | More focus on apps or "merge" an SSI app together with a crypto sharing app | |
 | 30.03.2020 | General | Comparing Apps with decentralized and social key recovery or all with key recovery | Closed  | It looks like comparing also other mechanism | |
+| 17.03.2020 | Social Recovery | Look into social recovery links | Done so far | | |
+| 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | Not useful atm | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
