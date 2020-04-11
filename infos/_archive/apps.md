@@ -9,6 +9,16 @@
 |One Identity Digital Passport|App for their Ecosystem|Not using open standards, no real "open" documentation|
 |Connect.Me - Digital Identity Wallet|Identity Wallet|<ul><li>Sovrin Ecosystem, App by Evernym</li><li>Backup/Restore either in evernym cloud with recovery phrase or local backup file with recovery phrase. Altough we've seen that hyperledger indy does seem to support social recovery, it's not built into this app</li><li>"Real" SSI -> No lock-in on Evernym</li></ul>|
 |EarthId|Identity Wallet|Bad bad App, not gonna use this|
+|Farmer Connect |Identity for Farmers| mail sent |
+|IdRamp |Identity Wallet| mail sent |
+|HearRo |Phone System| mail sent |
+|Axuall |Identity for Health Organizations| mail sent |
+|truu.id |Identity for Health Organizations| mail sent |
+|B!Wallet |Identity Wallet| mail sent |
+|Keyless |Identity Wallet| mail sent |
+|Sygnet |e-receipts via SSI| mail sent |
+|Spaceman.id |Identity wallet| mail sent |
+|Snapper Future Tech |Identity wallet| mail sent |
 
 # Applications using Social Recovery
 | name | category | remarks | tested? |

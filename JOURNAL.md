@@ -128,3 +128,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 07.04.2020
 * Looked for more opinions on VSS -> don't think there exist any.
 * Apps...
+## 11.04.2020
+* Checked all sovrin stewards and sent mail to them
