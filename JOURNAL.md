@@ -138,3 +138,4 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Start writing actual document
   * Waiting for mail answers
   * Keep looking for apps that use different recovery mechanisms
+* Wrote first draft of SSI part in document
