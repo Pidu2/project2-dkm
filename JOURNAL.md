@@ -130,3 +130,11 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Apps...
 ## 11.04.2020
 * Checked all sovrin stewards and sent mail to them
+## 13.04.2020
+* Teams Meeting
+* Set up document
+* Document Layout
+* Next steps:
+  * Start writing actual document
+  * Waiting for mail answers
+  * Keep looking for apps that use different recovery mechanisms

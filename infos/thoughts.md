@@ -9,12 +9,20 @@ Solutions for private key recovery:
 Document layout:
 - Management Summary
 - Introduction
-- Explain SSI and/or use case
+  * what if someone steals my phone (sovrin)
+  * use cases (crypto, SSI, ...)
+  * idea of sharding etc.
+  * solution should be usable for ssi
+- Explain SSI
+  * grob (siehe links)
 - Key recovery technologies (basic technologies for key recovery e.g. crypto TSS/SSSS)
-  * Possibly one example application using that technology
-- Criteria catalog explanation
-- Criteria catalog with a possible solutions per key recovery technology -> Table/Matrix
-- Key recovery showcase (actual usage of one of these apps/technologies)
+  * incl. gedanken zu dingen wie anonymität unter teilnehmer etc
+  * fazit mit fehlenden aspekten
+- Applications with reference to technology
+- Criteria catalog
+  * explanation
+  * Criteria catalog with a possible solutions per key recovery app -> Table/Matrix
+- Key recovery showcase (actual usage of one or two of these apps for our use case)
 - Summary
 
 Wording:
