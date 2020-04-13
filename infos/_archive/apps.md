@@ -15,10 +15,16 @@
 |Axuall |Identity for Health Organizations| mail sent |
 |truu.id |Identity for Health Organizations| mail sent |
 |B!Wallet |Identity Wallet| mail sent |
-|Keyless |Identity Wallet| mail sent |
-|Sygnet |e-receipts via SSI| mail sent |
+|Keyless |Identity Wallet| not yet implemented |
+|Sygnet |e-receipts via SSI| no information |
 |Spaceman.id |Identity wallet| mail sent |
 |Snapper Future Tech |Identity wallet| mail sent |
+
+# Other mobile app
+| name | category | remarks |
+|---|---|---|
+|block.one |Blockchain wallet| mail sent |
+|longplay.me |Crypto mobile wallet| mail sent |
 
 # Applications using Social Recovery
 | name | category | remarks | tested? |
