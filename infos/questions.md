@@ -5,8 +5,8 @@
 | 17.03.2020 | HyperLedger | Aries implementation w/ social recovery -> Check all "Sovrin Stewards" | Mails sent | | |
 | 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? ||
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
-| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. |x|
-
+| 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. ||
+| 13.04.2020 | Recovery | Key Escrow as recovery technique? | Open | |x|
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
