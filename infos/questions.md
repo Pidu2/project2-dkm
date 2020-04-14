@@ -6,7 +6,6 @@
 | 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? ||
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
 | 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. ||
-| 13.04.2020 | Recovery | Key Escrow as recovery technique? | Open | |x|
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
@@ -24,3 +23,4 @@
 | 30.03.2020 | General | Comparing Apps with decentralized and social key recovery or all with key recovery | Closed  | It looks like comparing also other mechanism | |
 | 17.03.2020 | Social Recovery | Look into social recovery links | Done so far | | |
 | 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | Not useful atm | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
+| 13.04.2020 | Recovery | Key Escrow as recovery technique? | Closed | Still useful ||

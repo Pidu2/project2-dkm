@@ -139,3 +139,12 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Waiting for mail answers
   * Keep looking for apps that use different recovery mechanisms
 * Wrote first draft of SSI part in document
+## 14.04.2020
+* Teams meeting with professors
+  * Discussed BaTh possibilities
+  * Discussed key escrow
+* To do
+  * Connect with SSI group for use case
+  * Solution for HyperLedger Demo use case
+  * Work on document
+
