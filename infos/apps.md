@@ -15,6 +15,7 @@
 |longplay.me|Key Recovery Service| |no|
 |Argent|Crypto Wallet|https://github.com/argentlabs/argent-contracts/blob/develop/specifications/specifications.pdf |no|
 |Gnosis|Crypto Wallet|https://gnosis-safe.readthedocs.io/en/latest/contracts/architecture.html |no|
+|Steemit|Bitcoin Wallet|https://steemit.com/blockchain/@dan/steemit-releases-groundbreaking-account-recovery-solution |no|
 
 # Applications using TSS
 | name | category | remarks | tested? |

@@ -23,7 +23,7 @@
 # Other mobile app
 | name | category | remarks |
 |---|---|---|
-|block.one |Blockchain wallet| mail sent |
+|Voice |Social app| mail sent |
 |longplay.me |Crypto mobile wallet| mail sent |
 
 # Applications using Social Recovery
