@@ -147,4 +147,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Connect with SSI group for use case
   * Solution for HyperLedger Demo use case
   * Work on document
-
+## 15.04.2020
+* Wrote first draft for introduction in document
