@@ -32,3 +32,4 @@
 |---|---|---|---|
 |Offline Vault | Offline Vault |offline backup of seed phrase |no|
 |Lastpass|PW Manager|replaceable with other pw managers using biometrics|no|
+|Civic|Crypto Wallet|Not released yet - https://www.civic.com/wallet/. Will support biometrics|no|
