@@ -149,3 +149,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Work on document
 ## 15.04.2020
 * Wrote first draft for introduction in document
+## 19.04.2020
+* More work on document, biometrics and paralysis proof

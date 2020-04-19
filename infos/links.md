@@ -17,6 +17,9 @@ Social Key Recovery in regards to the App "Zion"
 - https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/evaluating-social-recovery.pdf
 RWOT8 Very very interesting thoughts about social recovery! Sentence "For encryption keys..." -> ?? Also says how TSS could be useful for our usecase. Also emphasises, that there is no sense in restoring a compromised signing key. In the appendix, the questions that have to be answered when implementing a social recovery scheme are summarized, which is also great.
 
+### Biometric with secret sharing
+- https://arxiv.org/pdf/1907.04156.pdf - Paper about using biometric with secret sharing
+
 ### SSSS - Shamir's Secret Sharing Scheme / Secret Sharing
 - SSSS explained: https://www.youtube.com/watch?v=iFY5SyY3IMQ
 - Case AGAINST SSS by Bitcoin: https://en.bitcoin.it/wiki/Shamir_Secret_Snakeoil
