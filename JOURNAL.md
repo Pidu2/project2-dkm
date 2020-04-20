@@ -151,3 +151,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Wrote first draft for introduction in document
 ## 19.04.2020
 * More work on document, biometrics and paralysis proof
+## 20.04.2020
+* Meeting with SSI project team (Schlup, Scheck)
