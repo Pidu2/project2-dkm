@@ -153,3 +153,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * More work on document, biometrics and paralysis proof
 ## 20.04.2020
 * Meeting with SSI project team (Schlup, Scheck)
+  * Presented both projects to the other team
+  * Discussed possible use cases
+* Discussed possibilites for the BaTh

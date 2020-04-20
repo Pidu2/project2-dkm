@@ -25,6 +25,14 @@ Document layout:
 - Key recovery showcase (actual usage of one or two of these apps for our use case)
 - Summary
 
+Possible subjects for BaTh:
+- Creating a SSI app (lightweight) with a key recovery mechanism based on a existing app (and the local API)
+  * Checking vault12 for local API
+- Creating a Key Recovery app with an API (based on a known library and peer-to-peer protocol)
+  * Searching for an open-source peer-to-peer protocol
+- Extending a existing app with a Key Recovery function (open-source app)
+  * Searching for open-source SSI apps
+
 Wording:
 - DID (decentralized identifier)
 - DDO (DID descriptor object, documents (infos) referenced by DID)
