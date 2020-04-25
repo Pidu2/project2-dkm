@@ -156,3 +156,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Presented both projects to the other team
   * Discussed possible use cases
 * Discussed possibilites for the BaTh
+## 25.04.2020
+* More work on the document
+* Teams meeting
