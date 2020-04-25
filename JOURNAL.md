@@ -159,3 +159,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 25.04.2020
 * More work on the document
 * Teams meeting
+* Next steps:
+  * Look into apps provided by SSI Team (https://gitlab.ti.bfh.ch/schem32/bti7302_projekt2/-/blob/master/doc/report/notes/didmethods.md)
+  * Check which apps we actually want to show (Dario first five, me last five)
