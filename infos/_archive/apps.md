@@ -1,3 +1,9 @@
+# Desktop SSI Apps
+| name | category | remarks |
+|---|---|---|
+|sovrin | CLI Identity wallet | 32 characters seed phrase for recovery |
+
+
 # Mobile SSI Apps
 | name | category | remarks |
 |---|---|---|
@@ -19,6 +25,7 @@
 |Sygnet |e-receipts via SSI| no information |
 |Spaceman.id |Identity wallet| mail sent |
 |Snapper Future Tech |Identity wallet| mail sent |
+|ABT Wallet|Crypto Wallet| mail sent |
 
 # Other mobile app
 | name | category | remarks |
