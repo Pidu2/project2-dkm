@@ -2,6 +2,8 @@
 | name | category | remarks |
 |---|---|---|
 |sovrin | CLI Identity wallet | 32 characters seed phrase for recovery |
+|bryk|CLI identity wallet | seems to have planned social recovery, is only cli and does not really work..?|
+|JLINC|DID CLI client | no recovery, very minimal|
 
 
 # Mobile SSI Apps
@@ -28,6 +30,9 @@
 |ABT Wallet|Identity Wallet| <ul><li>mail sent</li><li>made video and tested</li><li>seems to support local backup only</li></ul>|
 |Ontology ID Wallet|Identity and Crypto Wallet| <ul><li>tested</li><li>password based backup only</li></ul>|
 |DPASS |Identity and Crypto Wallet| <ul><li>made video and tested</li><li>password based local backup or </li><li>Verification process with Email and Mobile to restore from vault</li></ul>|
+|SelfKey |Identity Wallet| plans to set on uPort for recovery. talks about something like social recovery but not yet implemented neither in uport nor selfkey|
+|Jolocom|Identity Wallet|seed phrase recovery|
+|Alastra|?|according to schlup/scheck mobile app, did not find it, no information found either|
 
 # Other mobile app
 | name | category | remarks |
