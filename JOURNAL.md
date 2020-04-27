@@ -160,7 +160,13 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * More work on the document
 * Teams meeting
 * Next steps:
-  * Look into apps provided by SSI Team (https://gitlab.ti.bfh.ch/schem32/bti7302_projekt2/-/blob/master/doc/report/notes/didmethods.md) (Dario first five, Beat last five)
+  * Look into apps provided by SSI team (https://gitlab.ti.bfh.ch/schem32/bti7302_projekt2/-/blob/master/doc/report/notes/didmethods.md) (Dario first five, Beat last five)
   * Check which apps we actually want to show
-  * Write mail to vault12
   * Write Kriterienkatalog
+## 27.04.2020
+* Teams meeting
+  * Discussed apps from the SSI team
+  * Discussed document
+* Next steps:
+  * Write mail to uport
+  * Work on document (searching for figures, criteria catalog, paralysis proof)

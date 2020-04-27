@@ -27,8 +27,6 @@ https://sovrin.org/sovrin-proudly-contributes-to-hyperledger-aries: "One of the 
 Argent is a smart contract wallet.
 It enables users to recover their wallets even after they've lost their seed phrases, by appointing "Guardians" (either friends, hardware wallets or Argent's own Guard service) who are tasked with agreeing to unlock your wallet.
 
------to show-----
-
 ## Dark Crystal
 Dark Crystal transforms secrets into crystal shards that you can send to trusted friends. If you lose the secret, or something happens to you, your friends can combine the shards to recover the crystal and reveal the secret.
 It uses cryptography so that no individual shard reveals anything about your secret on its own. Your secret is only revealed if the people you chose cooperate and put their shards together. It uses the Scuttlebutt Protocol.
