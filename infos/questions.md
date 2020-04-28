@@ -6,8 +6,8 @@
 | 21.03.2020 | Revocation | In a 2nd step, not only key recovery but also key revocation will be important | Open | As opposed to key recovery, revocation needs an implementation on the ledger side. -> How far is Indy etc on this? ||
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
 | 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. ||
-| 20.04.2020 | Applications | Look for open-source SSI applications | Open | | |
-| 20.04.2020 | Applications | Check if vault12 has a usable local API | Open | | |
+| 20.04.2020 | Applications | Look for open-source SSI applications | Open | not found | |
+| 20.04.2020 | Applications | Check if vault12 has a usable local API | Closed | Android Share API | x |
 | 20.04.2020 | Applications | Search open-source peer-to-peer protocols and known libraries for key sharding | Open | | |
 | 20.04.2020 | General | What is possible with distributed apps | Open | | |
 ### Archived
