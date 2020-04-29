@@ -7,7 +7,6 @@
 | 24.03.2020 | General | Who backups the configuration if you loose the information to whom you gave the shares? | Open |||
 | 25.03.2020 | Scheme | Do we need verifiable Schemes? | Review | Pedersen, Feldman VSS...<br>-> For recovery, these schemes can be useful to prevent participants from cheating. For "revocation"-case, it does not really matter. ||
 | 20.04.2020 | Applications | Look for open-source SSI applications | Open | not found | |
-| 20.04.2020 | Applications | Check if vault12 has a usable local API | Closed | Android Share API | x |
 | 20.04.2020 | Applications | Search open-source peer-to-peer protocols and known libraries for key sharding | Open | | |
 | 20.04.2020 | General | What is possible with distributed apps | Open | | |
 ### Archived
@@ -28,3 +27,4 @@
 | 17.03.2020 | Social Recovery | Look into social recovery links | Done so far | | |
 | 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | Not useful atm | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
 | 13.04.2020 | Recovery | Key Escrow as recovery technique? | Closed | Still useful ||
+| 20.04.2020 | Applications | Check if vault12 has a usable local API | Closed | Android Share API | |
