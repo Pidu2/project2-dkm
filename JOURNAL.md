@@ -170,3 +170,8 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Next steps:
   * Write mail to uport
   * Work on document (searching for figures, criteria catalog, paralysis proof)
+## 28.04.2020
+* Teams meeting with professors
+  * send pdf to them
+  * fazit should contain "what's missing now?"
+  * for criteria catalogue: the process must be exectuable from start to end (having key, losing phone, getting key back) -> "showcase"
