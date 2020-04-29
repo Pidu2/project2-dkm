@@ -175,3 +175,4 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * send pdf to them
   * fazit should contain "what's missing now?"
   * for criteria catalogue: the process must be exectuable from start to end (having key, losing phone, getting key back) -> "showcase"
+* more work on questions (open source ssi apps...)
