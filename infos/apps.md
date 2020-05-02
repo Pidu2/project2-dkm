@@ -31,3 +31,9 @@
 |Offline Vault | Offline Vault |offline backup of seed phrase |no|
 |Lastpass|PW Manager|replaceable with other pw managers using biometrics|no|
 |Civic|Crypto Wallet|Not released yet - https://www.civic.com/wallet/. Will support biometrics|no|
+
+# OpenSource SSI Apps
+| name | remarks |
+|SelfKey| Mobile & Desktop both Opensource, Ethereum ledger |
+|Element-did | Not entirely sure: https://github.com/decentralized-identity/element |
+| Echo| https://github.com/echoprotocol/echo-wallet Desktop |

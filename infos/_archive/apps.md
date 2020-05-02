@@ -31,7 +31,7 @@
 |Ontology ID Wallet|Identity and Crypto Wallet| <ul><li>tested</li><li>password based backup only</li></ul>|
 |DPASS |Identity and Crypto Wallet| <ul><li>made video and tested</li><li>password based local backup or </li><li>Verification process with Email and Mobile to restore from vault</li></ul>|
 |SelfKey |Identity Wallet| plans to set on uPort for recovery. talks about something like social recovery but not yet implemented neither in uport nor selfkey|
-|Jolocom|Identity Wallet|seed phrase recovery|
+|Jolocom|Identity Wallet|seed phrase recovery. open source protocol but not open source app|
 |Alastria|?|according to schlup/scheck mobile app, did not find it, no information found either|
 
 # Other mobile app
