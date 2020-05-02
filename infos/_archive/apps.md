@@ -38,7 +38,7 @@
 | name | category | remarks |
 |---|---|---|
 |Voice |Social app| mail sent |
-|longplay.me |Crypto mobile wallet| mail sent |
+|longplay.me |Crypto mobile wallet| mail sent - no answer |
 
 # Applications using Social Recovery
 | name | category | remarks | tested? |
