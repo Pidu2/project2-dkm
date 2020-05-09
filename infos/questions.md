@@ -9,6 +9,9 @@
 | 20.04.2020 | Applications | Look for open-source SSI applications | Open | not found | |
 | 20.04.2020 | Applications | Search open-source peer-to-peer protocols and known libraries for key sharding | Open | | |
 | 20.04.2020 | General | What is possible with distributed apps | Open | | |
+| 09.05.2020 | General | Knowledge of the user - Document | Open | | x |
+| 09.05.2020 | General | New line - Document | Open | | x |
+| 09.05.2020 | General | (Decentralised) Key Recovery as a title - Document | Open | | x |
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
