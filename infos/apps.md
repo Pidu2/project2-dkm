@@ -34,6 +34,7 @@
 
 # OpenSource SSI Apps
 | name | remarks |
+|---|---|
 |SelfKey| Mobile & Desktop both Opensource, Ethereum ledger |
 |Element-did | Not entirely sure: https://github.com/decentralized-identity/element |
 | Echo| https://github.com/echoprotocol/echo-wallet Desktop |
