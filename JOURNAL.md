@@ -206,3 +206,4 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * 2.3 umschreiben zu "mögliche lösung", nicht "wir machen es so"
   * 4.7.1
   * Applikationsteil schreiben
+  * Substrate anschauen
