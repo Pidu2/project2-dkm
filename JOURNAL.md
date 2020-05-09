@@ -180,3 +180,29 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * open source p2p
   * dark crystal -> how is it done there?
   * argent
+## 01.05.2020
+* Sent mail to Professors
+## 02.05.2020
+* Work on applications
+* Some work on document
+## 05.05.2020
+* Work on links
+## 06.05.2020
+* Got input to our document from Mrs Laube
+## 09.05.2020
+* Discussed Mail
+* Discussed next steps
+* Todo Mail:
+  * ich, wir, man -> alles neutral
+  * nicht immer neue zeile
+  * bindestriche (Passwort-Vergessen Funktion -> Passwort-Vergessen-Funktion, Brute-Force Zugriff -> Brute-Force-Zugriff)
+  * englisch / deutsch
+  * unbekannte begriffe (key etc)
+  * SSI vorteile nachteile per tabelle + bilder
+  * fazit bei key recovery erstellen wo wir uns für social recovery aussprechen. erst danach noch abschnitt wo nachteile und gedanke zu social recovery erläutert werden
+  * kriterienkatalog: applikation gesucht, nicht lösungskonzept
+  * kriterienkatalog: identifikatoren
+* Rest Todo:
+  * 2.3 umschreiben zu "mögliche lösung", nicht "wir machen es so"
+  * 4.7.1
+  * Applikationsteil schreiben
