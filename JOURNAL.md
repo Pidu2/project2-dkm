@@ -207,3 +207,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * 4.7.1
   * Applikationsteil schreiben
   * Substrate anschauen
+## 10.05.2020 / 11.05.2020
+* work on document
