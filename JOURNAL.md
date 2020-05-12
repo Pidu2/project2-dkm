@@ -209,3 +209,11 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Substrate anschauen
 ## 10.05.2020 / 11.05.2020
 * work on document
+## 12.05.2020
+* Meeting with professors
+  * Genaueres spezifizieren von Begriffen wie "Keys"
+  * Titeländerung
+  * Tabelle / Matrix -> Nur genauer spezifizieren wenn nötig in Text
+  * Welche Applikationen beschreiben müssen wir selber wissen. (etwa 5 wäre sinnvoll)
+  * Vielleicht "Diskussionskapitel" am Schluss hinzufügen
+  * Präsidatum mit Schlup/Scheck besprechen
