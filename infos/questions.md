@@ -9,13 +9,7 @@
 | 20.04.2020 | Applications | Look for open-source SSI applications | Open | not found | |
 | 20.04.2020 | Applications | Search open-source peer-to-peer protocols and known libraries for key sharding | Open | | |
 | 20.04.2020 | General | What is possible with distributed apps | Open | | |
-| 09.05.2020 | General | Knowledge of the user - Document | Open | | x |
-| 09.05.2020 | General | New line - Document | Open | | x |
-| 09.05.2020 | General | (Decentralised) Key Recovery as a title - Document | Open | | x |
-| 12.05.2020 | Apps | Apps to show: Argent? (use case), Dark Crystal (desktop etc.) | Open || x|
-| 12.05.2020 | Apps | Should the winner be used for BaTh | Open || x|
-| 12.05.2020 | Apps | Kriterien für jede Applikation beschreiben? | Open ||x|
-| 12.05.2020 | General | Abgabe- und Präsidatum? | Open ||x|
+| 12.05.2020 | General | Abgabe- und Präsidatum? | Open ||Document: 12.06.2020, Presentation: Thursday 11 or 18.06|
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
@@ -35,3 +29,9 @@
 | 03.03.2020 | HyperLedger | What's necessary to install a HyperLedger Indy blockchain? | Not useful atm | Seems to be pretty easy with docker -> https://github.com/hyperledger/indy-node/blob/master/environment/docker/pool/README.md | |
 | 13.04.2020 | Recovery | Key Escrow as recovery technique? | Closed | Still useful ||
 | 20.04.2020 | Applications | Check if vault12 has a usable local API | Closed | Android Share API | |
+| 09.05.2020 | General | Knowledge of the user - Document | Closed | General Knowledge of IT-Sec | |
+| 09.05.2020 | General | New line - Document | Closed | New line for each idea | |
+| 09.05.2020 | General | (Decentralised) Key Recovery as a title - Document | Closed | ok | |
+| 12.05.2020 | Apps | Apps to show: Argent? (use case), Dark Crystal (desktop etc.) | Closed |||
+| 12.05.2020 | Apps | Should the winner be used for BaTh | Closed | no ||
+| 12.05.2020 | Apps | Kriterien für jede Applikation beschreiben? | Closed | we will describe five apps |x|
