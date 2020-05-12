@@ -13,6 +13,7 @@
 | 09.05.2020 | General | New line - Document | Open | | x |
 | 09.05.2020 | General | (Decentralised) Key Recovery as a title - Document | Open | | x |
 | 12.05.2020 | Apps | Apps to show: Argent? (use case), Dark Crystal (desktop etc.) | Open || x|
+| 12.05.2020 | Apps | Should the winner be used for BaTh | Open || x|
 ### Archived
 | Date issued  | Topic | Question | State | (Current) Solution | Next meeting |
 | :-----------: | ------------- | --------------------- | ------- | ---------------------- | :---------: |
