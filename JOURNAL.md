@@ -217,3 +217,8 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * Welche Applikationen beschreiben müssen wir selber wissen. (etwa 5 wäre sinnvoll)
   * Vielleicht "Diskussionskapitel" am Schluss hinzufügen
   * Präsidatum mit Schlup/Scheck besprechen
+## 16.05.2020
+* Teams meeting for trying apps and checking next steps
+* Writing on applications part
+## 17.05.2020
+* Writing on applications part
