@@ -222,3 +222,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Writing on applications part
 ## 17.05.2020
 * Writing on applications part
+## 18.05.2020
+* Teams meeting for trying apps and writing word document
