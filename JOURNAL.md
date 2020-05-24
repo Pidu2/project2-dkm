@@ -224,3 +224,9 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Writing on applications part
 ## 18.05.2020
 * Teams meeting for trying apps and writing word document
+## 22.05.2020
+* Teams meeting for trying last app and discussing next steps
+## 23.05.2020
+* Teams meeting for writing matrix
+## 24.05.2020
+* More writing on document
