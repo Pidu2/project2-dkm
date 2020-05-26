@@ -230,3 +230,6 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Teams meeting for writing matrix
 ## 24.05.2020
 * More writing on document
+## 26.05.2020
+* Teams meeting
+* Discussion on what next
