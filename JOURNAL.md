@@ -236,3 +236,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 ## 30.05.2020
 * Teams meeting
 * Discussed open sections in document
+## 01.06.2020
+* More work on last sections of document
