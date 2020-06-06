@@ -238,3 +238,18 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
 * Discussed open sections in document
 ## 01.06.2020
 * More work on last sections of document
+## 06.06.2020
+* Teams meeting
+* work on document
+* todo:
+  * Glossar
+  * Literaturverzeichnis
+  * Formatting (Bilder, Ceiling, Tables)
+  * Automatic Date
+  * Showcase
+  * Abbildungsverzeichnis
+  * Tabellenverzeichnis
+  * Inhaltsverzeichnis 2. Ebene + 4. Kapitel Überschriften "entfernen"
+  * 5.1 Vergleich entfernen, Apps eine Stufe höher
+  * Showcase "Kapitel" gleich wie Kriterien"kapitel"
+  * restliche TODOs
