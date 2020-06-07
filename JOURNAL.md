@@ -253,3 +253,5 @@ We'll stick with Word for Project 2 as we both have no experience using LaTeX.
   * 5.1 Vergleich entfernen, Apps eine Stufe höher
   * Showcase "Kapitel" gleich wie Kriterien"kapitel"
   * restliche TODOs
+## 07.06.2020
+* References, TODOs and cross-references in document
